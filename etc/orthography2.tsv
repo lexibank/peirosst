@@ -1,0 +1,794 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	taŋrauŋ, na⁵⁵_ma³⁵_phu	Palaichi, Yogli, WrittenTibetan, Shixing, Tamang, CuonaM, Mikir, Khoirao, Rourou, Haka, Magar, Rawang, Garo, Wancho, Pumi1, Manipuri, Sgaw, Geker, PaO, Bugun, Leqi, Bodo, Achang, LhasaTibetan, AoChungli, Kelun, JianchuanBai, NinglangNaxi, Liangmai, Mzieme, UpperBangni, Sqiangqin, Motuo-M, Bokar, MijuGeman, Zeme, Manu, Yimchunru, Ersu, Nocte, Shaiyang, Khezhama, Yeinbaw, Chepang, Padaung, AlikeTibetan, Chang, Anong, Bola, Namuzi, Kaike, Jingpo, Rabha, Kabui, Dimasa, Apatari, Geba, LangsuMaru, Jirel, Lushai, Limbu, XiaxeTibetan, Dulong, Yintale, Quueyu, Maram, Phom	100	U+0061
+_	_	thə⁵⁵_pka⁵⁵_p, tha_L¹la_T¹	Jirel, Quueyu, Nqiang, Jiarug, WrittenTibetan, Geba, LijiangNaxi, Tujia, Rourou, Bokar, Hmar, Motuo-M, Palaichi, Manu, BatangTibetan, Wkayah, Pumi1, Ergong, Yeinbaw, Bola, Anong, Namuzi, Sgaw, Geker, PaO, AngKohima, Leqi, Sulong, LhasaTibetan, Shixing, Dulong, Kelun, JianchuanBai, CuonaM, NinglangNaxi, Sqiangqin, MijuGeman, Sherpa, Guiqiong, Ersu, Gazhuo, Konyak, Horpa, Pumi2, AlikeTibetan, Tagin, CHN, KayanPekon, Muya, Lushai, Idu, Achang, XiaxeTibetan, Yintale, Nusu, Jinuo	100	U+005f
+i	i	phi¹, bigil	Nqiang, Mzieme, Hmar, Zeme, Garo, Pumi1, CHN, AngKohima, Lushai, Tujia, Khoirao, NinglangNaxi, Haka, Padam, Fuzhou, Miji, Pumi2, Chang, Anong, Bodo, Beijing, HillMiri, Gangte, Hakka, Yintale, Gallong, JianchuanBai, AngKhonoma, Liangmai, Rourou, Sangtam, Lhota, Sqiangqin, Sherpa, BatangTibetan, Wkayah, Guiqiong, Shaiyang, Dhimal, Ersu, Konyak, Gurung, Yeinbaw, Bola, Tagin, Namuzi, Geker, Sgaw, Kaike, Bugun, Lepcha, Leqi, Yamphu, Idu, Achang, Limbu, Sulong, Nusu, Shixing, Thakali, Mao, Maram, Tiddim, Milang	100	U+0069
+u	u	chubui, puluB	Sunwar, Kulung, Yogli, Dhimal, Fuzhou, Chepang, Dimasa, Yintale, Tujia, Nocte, Manu, Manipuri, Burmese, CHN, Bugun, Geba, Lushai, Achang, AoMongsen, Tangkul, Kabui, Gallong, JianchuanBai, NinglangNaxi, Khoirao, Mzieme, Kelun, Aka, Dumi, Haka, Magar, Hmar, Motuo-M, MijuGeman, Zeme, Ersu, Sherpa, Palaichi, Shaiyang, Miji, Yimchunru, Taraon, Khezhama, Yeinbaw, Padaung, Chang, Bola, Tagin, Khaling, Namuzi, Sema, Geker, Rengma, Nqiang, Apatari, LangsuMaru, Leqi, Idu, Bodo, Beijing, Serdukpen, Hakka, Dulong, Milang, Jinuo	100	U+0075
+e	e	sein¹³_bei³³, nelleB	AngKhonoma, Zeme, AngKohima, Aka, Konyak, Sunwar, Rengma, Gangte, Tujia, Tamang, Mzieme, UpperBangni, Hmar, Manu, Sherpa, Gurung, Pumi2, Dimasa, Jirel, Muya, Lushai, XiaxeTibetan, Quueyu, AoChungli, Thakali, Yintale, Phom, Tiddim, LijiangNaxi, Kulung, CuonaM, Mikir, NinglangNaxi, Jiarug, Magar, Sqiangqin, Motuo-M, Haka, Nocte, BatangTibetan, Padam, Miji, Fuzhou, Shaiyang, Manipuri, Ergong, Khezhama, Chepang, Yeinbaw, Horpa, Khaling, CHN, Sgaw, Sema, WrittenTibetan, PaO, Kabui, Serdukpen, Nishi, AoMongsen, Milang	100	U+0065
+o	o	kyopo, thoʔ⁵³_pho⁴⁴	LhasaTibetan, Mikir, Nocte, Phom, Fuzhou, Jirel, Thakali, Tangkul, JianchuanBai, Zhaba, UpperBangni, Bokar, Hmar, Palaichi, Sherpa, Konyak, Gurung, CHN, WrittenTibetan, Sema, PaO, Sgaw, Rabha, Geba, Bodo, Beijing, Mao, Tujia, Tamang, CuonaM, Liangmai, Khoirao, Sangtam, Jiarug, Dumi, Motuo-M, Manu, Padam, Ersu, Wancho, Manipuri, Ergong, Khezhama, Milang, Anong, Khaling, Kaike, Jingpo, Bugun, Dimasa, Leqi, Idu, Lushai, Yamphu, Serdukpen, Hakka, AoChungli, Shixing, Quueyu, Maram, Kabui, Tiddim, Kelun, Jinuo	100	U+006f
+m	m	mama, šimuŋ	Tamang, MijuGeman, Manipuri, Kaike, AoChungli, Kabui, LijiangNaxi, Kulung, Zhaba, Sangtam, Sherpa, Dhimal, Pumi1, Gazhuo, Chepang, AlikeTibetan, Chang, KonyakD, Namuzi, Yamphu, Achang, XiaxeTibetan, LhasaTibetan, Thakali, Maram, OldChinese, CuonaM, NinglangNaxi, Rourou, Mzieme, Mikir, Kelun, Jiarug, Lhota, Dumi, Motuo-M, Palaichi, Manu, Miji, Phom, Shaiyang, Horpa, Gurung, Yeinbaw, Padaung, Pochuri, Bola, Milang, WrittenTibetan, Geker, PaO, Jingpo, Sema, Rabha, Bugun, LangsuMaru, Geba, KayanPekon, Muya, Leqi, Limbu, Gangte, Shixing, Tangkul, AoMongsen, Yintale, Tiddim, Jinuo	100	U+006d
+i$	i	kai, chubui	Zeme, Maram, Kabui, Kulung, Khoirao, Dhimal, Sema, AngKhonoma, Liangmai, Padam, Bugun, Mao, Mikir, Mzieme, UpperBangni, Burmese, Chang, Tagin, Nqiang, Rengma, Dimasa, HillMiri, AoMongsen, Nishi, Tangkul, Gallong, Milang, Sangtam, Jiarug, Hmar, Motuo-M, Nocte, Manu, Miji, Garo, Yogli, Yimchunru, Shaiyang, Wancho, Taraon, Khezhama, Pochuri, Lepcha, Apatari, Lushai, Yamphu, Limbu, Serdukpen, Gangte, AoChungli, Thakali	100	U+0069 U+0024
+⁵⁵$	⁵⁵	ŋɔ̲ʔ⁵⁵, gue¹³_ci⁵⁵	Dulong, Quueyu, Kelun, Ersu, Pumi2, Anong, Namuzi, Zhaba, Leqi, LhasaTibetan, Guiqiong, Wkayah, Yeinbaw, LangsuMaru, Achang, Nusu, Shixing, Yintale, LijiangNaxi, CuonaM, BatangTibetan, Fuzhou, Bola, PaO, Jingpo, Jinuo, NinglangNaxi, Sqiangqin, Geker, Muya	100	U+2075 U+2075 U+0024
+^m	m	mama, mruine	Mzieme, Tujia, Tamang, Sangtam, Chokri, Zeme, Apatari, Thakali, Kabui, AngKhonoma, Zhaba, Liangmai, Mikir, Aka, Miji, Gurung, Limbu, HillMiri, Jinuo, Kulung, UpperBangni, Kelun, Lhota, Dumi, Bokar, Sqiangqin, Hmar, Magar, Motuo-M, BatangTibetan, Padam, Guiqiong, Yimchunru, Shaiyang, Taraon, Konyak, Khezhama, Chepang, Burmese, KonyakD, Bola, Tagin, Khaling, Namuzi, Sgaw, WrittenTibetan, Kaike, Sema, PaO, AngKohima, KayanPekon, Muya, Leqi, Lushai, Idu, Yamphu, XiaxeTibetan, Sulong, Nishi, Serdukpen, AoMongsen, Nusu, AoChungli, Quueyu, Yintale, Gangte, Tangkul, Maram, Gallong, Tiddim, Milang	100	U+005e U+006d
+a$	a	pera, nruaina	WrittenTibetan, AngKhonoma, Sangtam, Rawang, Dhimal, XiaxeTibetan, Tangkul, Tamang, Kulung, Nocte, Garo, KonyakD, Kabui, HillMiri, Khoirao, UpperBangni, Chokri, Jiarug, Lhota, Shaiyang, Manipuri, Horpa, Kaike, Nqiang, Dimasa, Yamphu, Nishi, Phom, Liangmai, Mzieme, Aka, Magar, Motuo-M, Zeme, Yimchunru, Wancho, Ergong, Gurung, Burmese, Sema, Rengma, Bugun, Apatari, Rabha, Lushai, AoMongsen, Gangte, Serdukpen, Thakali, Gallong	100	U+0061 U+0024
+ŋ	ŋ	taŋrauŋ, raŋkam	Taraon, Anong, Jirel, MijuGeman, Fuzhou, Wancho, LhasaTibetan, Jingpo, Idu, Dulong, Tamang, Lhota, Bokar, Motuo-M, Yogli, Zeme, Chang, PaO, Rabha, Beijing, Achang, Thakali, Yintale, Phom, Tiddim, CuonaM, Zhaba, Liangmai, NinglangNaxi, Mzieme, Khoirao, Magar, Sherpa, Rawang, Padam, Garo, Manipuri, Burmese, AlikeTibetan, Milang, Bola, WrittenTibetan, Bugun, Dimasa, Apatari, LangsuMaru, Leqi, Yamphu, Bodo, Sulong, AoMongsen, AoChungli, Maram, OldChinese	100	U+014b
+ɨ	ɨ	dɨdhɨ-kwam, pɨʔɨ	Dumi, Taraon, Geker, LijiangNaxi, Chokri, Guiqiong, Sangtam, Lusu, Dulong, NinglangNaxi, Gazhuo, Anong, Apatari, Nusu, JianchuanBai, MijuGeman, Wkayah, Khezhama, Padaung, Chang, Pochuri, Tagin, Namuzi, HillMiri, AoMongsen, Tujia, Mzieme, Padam, Yimchunru, Ersu, KonyakD, Sema, Rabha, Geba, Muya, Sulong, Nishi, Shixing, AoChungli, Kabui, Jinuo	100	U+0268
+r	r	pera, taŋrauŋ	Nusu, Mzieme, Lhota, Dhimal, Zeme, Burmese, Idu, Tamang, Kulung, MijuGeman, Yogli, Nocte, Garo, Yimchunru, Shaiyang, Taraon, Konyak, Gurung, Chepang, Sunwar, WrittenTibetan, Dimasa, AngKohima, Yamphu, Limbu, Maram, Kabui, LijiangNaxi, AngKhonoma, Liangmai, Khoirao, Chokri, Jiarug, Aka, Bokar, Sherpa, Ersu, Miji, Padam, Wkayah, Wancho, Manipuri, Yeinbaw, Khezhama, Horpa, Pochuri, CHN, Namuzi, Kaike, PaO, Rengma, Rabha, Nqiang, Lepcha, Apatari, Muya, Lushai, Serdukpen, AoMongsen, Thakali, AoChungli, Tangkul, Quueyu, Mao	100	U+0072
+ə	ə	hə⁴⁴_phə⁴⁴, kərhəŋ-ke	Sgaw, Quueyu, Jinuo, Rawang, Pumi1, Chepang, Geker, Bodo, Sulong, Magar, Bokar, Palaichi, KonyakD, Jingpo, Geba, Muya, LijiangNaxi, Dumi, Sqiangqin, Gazhuo, Horpa, AlikeTibetan, Achang, XiaxeTibetan, Nishi, Shixing, Kelun, NinglangNaxi, Manu, Padam, Miji, Guiqiong, Wkayah, Yeinbaw, Pumi2, Tagin, Namuzi, CHN, AngKohima, LangsuMaru, Limbu, HillMiri, LhasaTibetan, Gallong	100	U+0259
+^a	a	alo, aloŋ	Pochuri, Sema, Sangtam, Nocte, Padam, Rengma, AoChungli, Gallong, Milang, Kelun, Yogli, Shaiyang, Burmese, Lepcha, Sulong, Tangkul, Maram, Khoirao, Yimchunru, Wancho, Manipuri, Anong, Tagin, Serdukpen, Jinuo, UpperBangni, Aka, Bokar, MijuGeman, Wkayah, Garo, Chang, Bola, Namuzi, Rabha, Bugun, Dimasa, Apatari, Lushai, Bodo, Achang, Nishi, Gangte, Phom	100	U+005e U+0061
+ŋ$	ŋ	taŋrauŋ, aloŋ	Bokar, Yogli, Padam, AoChungli, Milang, Hmar, Motuo-M, Konyak, AoMongsen, Gangte, Maram, Khoirao, Sangtam, UpperBangni, Dhimal, Yimchunru, Zeme, Shaiyang, Wancho, Chang, KonyakD, Kabui, Dimasa, Apatari, Lepcha, KayanPekon, Yamphu, Bodo, XiaxeTibetan, Serdukpen, Phom, Tujia, Liangmai, Mikir, Mzieme, Lhota, Nocte, Sherpa, Miji, Garo, Rawang, Manipuri, Chepang, Khaling, Kaike, Rabha, Bugun, Lushai, Nishi	100	U+014b U+0024
+^k	k	kai, kyopo	UpperBangni, Bokar, Sunwar, HillMiri, AngKhonoma, Tagin, Khaling, Sema, Jingpo, Mikir, Liangmai, Khoirao, Chokri, Dumi, MijuGeman, Zeme, Wkayah, Khezhama, Burmese, KonyakD, Rengma, Achang, Nishi, Tangkul, Mao, Kabui, OldChinese, Tujia, Tamang, JianchuanBai, Zhaba, Mzieme, Magar, Manu, Sherpa, Nocte, Padam, Fuzhou, Taraon, Gurung, Bola, CHN, Kaike, PaO, Nqiang, Rabha, Dimasa, Apatari, Geba, Jirel, Muya, Leqi, Lusu, Idu, Limbu, AoMongsen, Serdukpen, AoChungli, Thakali, Gallong	100	U+005e U+006b
+l	l	alo, aloŋ	Dumi, Motuo-M, Khaling, Palaichi, Konyak, Sunwar, Tiddim, CuonaM, UpperBangni, Nocte, Dhimal, Garo, Wkayah, Yimchunru, Fuzhou, KonyakD, Kaike, PaO, Apatari, Jirel, Nishi, AoMongsen, AoChungli, Dulong, Phom, LijiangNaxi, Tamang, Kulung, Mikir, Rourou, Sangtam, Jiarug, Lhota, Haka, Bokar, Hmar, Zeme, Sherpa, Padam, Shaiyang, Ergong, Horpa, Gurung, Padaung, Burmese, Milang, Bola, Anong, Pochuri, Sgaw, Rengma, Dimasa, Geba, Muya, Manu, Sulong, Gangte, Nusu, Yintale, Tangkul, Thakali, Gallong, Kelun, Jinuo	100	U+006c
+^s	s	si, se	Dumi, Pumi2, Yamphu, OldChinese, Chang, Khaling, Serdukpen, LijiangNaxi, Jiarug, Sqiangqin, Hmar, Sherpa, Gazhuo, Chepang, KonyakD, Bola, WrittenTibetan, Kaike, Jingpo, Nqiang, KayanPekon, Jirel, Leqi, Limbu, Thakali, JianchuanBai, Kulung, AngKhonoma, Zhaba, CuonaM, NinglangNaxi, Aka, Haka, MijuGeman, Palaichi, Manu, Rawang, Garo, Fuzhou, Pumi1, Padaung, Pochuri, Namuzi, CHN, Sunwar, Rabha, Bugun, Dimasa, AngKohima, LangsuMaru, Muya, Lushai, Bodo, Achang, AoMongsen, LhasaTibetan, Nusu, Quueyu, Dulong, Yintale, Shixing, Hakka, Maram, Tiddim	100	U+005e U+0073
+n	n	nruaina, tana	Zeme, Jiarug, Dumi, Yimchunru, Khaling, Yintale, Kabui, Tujia, CuonaM, Liangmai, Mzieme, Shaiyang, Wancho, Khezhama, Pochuri, Namuzi, Sema, WrittenTibetan, Jingpo, Lepcha, Lushai, Achang, XiaxeTibetan, Quueyu, Mao, Tiddim, Tamang, Haka, Bokar, Hmar, Motuo-M, MijuGeman, Nocte, BatangTibetan, Garo, Guiqiong, Wkayah, Taraon, Manipuri, Konyak, Ergong, Gurung, Chepang, Pumi2, AlikeTibetan, Chang, Geker, PaO, Nqiang, AngKohima, Jirel, Muya, Leqi, Lusu, Limbu, Sulong, AoMongsen, Nusu, AoChungli, Dulong, Tangkul, Maram, Hakka, Thakali, Jinuo	100	U+006e
+k	k	nok_ko, aki	Jiarug, Shaiyang, Tujia, Lhota, MijuGeman, Sherpa, Fuzhou, Tangkul, Gallong, CuonaM, Mikir, Liangmai, Magar, Zeme, Dhimal, Garo, Wancho, AlikeTibetan, Chang, Pochuri, Sunwar, Sema, Rabha, LangsuMaru, Jirel, Bodo, Serdukpen, LhasaTibetan, Quueyu, Kabui, OldChinese, JianchuanBai, AngKhonoma, Mzieme, Khoirao, Sangtam, Palaichi, BatangTibetan, Padam, Ersu, Phom, Gazhuo, Manipuri, Yeinbaw, Tagin, Khaling, Namuzi, Geker, Nqiang, Rengma, Lepcha, Geba, Muya, Lusu, Idu, Achang, Sulong, Maram	100	U+006b
+^l	l	labu, la³⁵	Padaung, Chang, Shixing, Pumi1, Wancho, Namuzi, LangsuMaru, KayanPekon, Lushai, Tujia, Bokar, Palaichi, Manu, Wkayah, Ersu, Yeinbaw, Geker, Jingpo, Lusu, Beijing, Nusu, Jinuo, LijiangNaxi, Zhaba, NinglangNaxi, Rourou, UpperBangni, Haka, Hmar, Sqiangqin, Dhimal, Padam, Miji, Guiqiong, Shaiyang, Fuzhou, Gazhuo, Manipuri, Pumi2, Burmese, KonyakD, Bola, Tagin, PaO, Nqiang, Bugun, Dimasa, Geba, Apatari, Leqi, Yamphu, Bodo, Achang, Nishi, HillMiri, Serdukpen, Gangte, Yintale, Quueyu, Hakka, Dulong, Phom, Gallong, Tiddim, Milang	100	U+005e U+006c
+^n	n	nu, nruaina	LijiangNaxi, Kabui, Gurung, AlikeTibetan, CHN, XiaxeTibetan, Thakali, Zhaba, Rourou, Zeme, Sherpa, Rawang, Ersu, Pumi2, Burmese, Bola, WrittenTibetan, Rengma, LangsuMaru, Muya, Leqi, Beijing, Nusu, Dulong, Tamang, AngKhonoma, NinglangNaxi, Khoirao, Liangmai, Kelun, UpperBangni, Haka, Motuo-M, Hmar, OldChinese, Yogli, BatangTibetan, Yimchunru, Guiqiong, Fuzhou, Wancho, Pumi1, Gazhuo, Konyak, Manipuri, Ergong, Chang, Anong, Sunwar, Namuzi, Kaike, Jingpo, Rabha, Bugun, Lepcha, Jirel, Lusu, Yamphu, Achang, Limbu, Nishi, LhasaTibetan, Tangkul, Hakka, Shixing, Tiddim, Milang	100	U+005e U+006e
+u$	u	ru, nu	Aka, Rengma, Limbu, Kabui, Liangmai, Khoirao, Dumi, Magar, Motuo-M, Khezhama, Kaike, AoChungli, Kulung, AngKhonoma, Jiarug, Sherpa, Miji, Wancho, Manipuri, Ergong, Chang, Pochuri, Tagin, Khaling, Apatari, KayanPekon, Serdukpen, AoMongsen, Rourou, Mikir, Sangtam, UpperBangni, Mzieme, Lhota, Hmar, Bokar, Yogli, Nocte, Rawang, Padam, Yimchunru, Zeme, Shaiyang, Horpa, KonyakD, Sema, Nqiang, Lepcha, Bodo, Mao, Maram, Gallong, Milang	100	U+0075 U+0024
+p	p	kyopo, təpla	WrittenTibetan, Phom, Tamang, Jiarug, Lhota, Dumi, Bokar, Sherpa, KonyakD, Tagin, HillMiri, Kulung, CuonaM, UpperBangni, Hmar, Nocte, Zeme, Bola, Khaling, Jingpo, Dimasa, Jirel, AoMongsen, Quueyu, Dulong, Mao, Tujia, Zhaba, Mikir, Mzieme, Khoirao, Sangtam, Aka, BatangTibetan, Padam, Wkayah, Garo, Manu, Konyak, Khezhama, Chepang, Pumi2, CHN, Nqiang, Lepcha, LangsuMaru, Geba, Leqi, Idu, Achang, XiaxeTibetan, Gangte, Thakali, Tangkul, AoChungli, Shixing, LhasaTibetan, Kabui, Gallong, Milang	100	U+0070
+^t	t	tin, taŋrauŋ	AoChungli, AoMongsen, Maram, Liangmai, Nocte, Dhimal, KonyakD, CHN, Jingpo, AngKhonoma, Zeme, Yogli, Fuzhou, Taraon, Konyak, Chepang, Chang, Rengma, AngKohima, Muya, Bodo, Phom, Tujia, JianchuanBai, Kulung, Mzieme, Khoirao, Sangtam, Kelun, Chokri, Dumi, Bokar, Haka, Hmar, MijuGeman, Sherpa, Garo, Rawang, Shaiyang, Gazhuo, Gurung, Pumi2, Burmese, Bola, Khaling, Sunwar, Sema, PaO, Rabha, Leqi, Lushai, Idu, Sulong, Quueyu, Hakka, Dulong, Tiddim, OldChinese, Jinuo	100	U+005e U+0074
+³³$	³³	sa³³, ṣɨ³³	Jingpo, Shixing, NinglangNaxi, Yintale, LijiangNaxi, Sqiangqin, PaO, Gazhuo, Anong, Wkayah, Leqi, Fuzhou, Namuzi, Geba, Manu, Guiqiong, Yeinbaw, Muya, Quueyu, Jinuo, Rourou, Palaichi, Ersu, Sgaw, Geker, LhasaTibetan	100	U+00b3 U+00b3 U+0024
+¹$	¹	ši¹, si¹	Jirel, Idu, Sulong, Gurung, AngKohima, Taraon, Thakali, Tujia, Tamang, Tiddim, Hakka, MijuGeman, JianchuanBai	100	U+00b9 U+0024
+o$	o	vo, ro	XiaxeTibetan, Lhota, WrittenTibetan, Horpa, AlikeTibetan, Chang, Pochuri, Tagin, Sema, Dimasa, Mao, Mikir, UpperBangni, Chokri, Serdukpen, HillMiri, Gallong, Magar, Haka, Miji, Khezhama, Tangkul, Tamang, Jiarug, Aka, Hmar, Motuo-M, Palaichi, Manu, Nocte, Dhimal, Yimchunru, Wancho, Ergong, Gurung, Chepang, Anong, Kaike, PaO, Geker, Rengma, Lepcha, Lushai, AoMongsen, Nishi, Maram	100	U+006f U+0024
+^p	p	pera, pɨʔɨ	AngKhonoma, CuonaM, Dumi, Zeme, Wancho, Khaling, Sunwar, Apatari, Dulong, Mzieme, Hmar, Bokar, Padam, Phom, Fuzhou, Manipuri, Konyak, Khezhama, AngKohima, Tujia, LijiangNaxi, Tamang, JianchuanBai, Mikir, Liangmai, Khoirao, NinglangNaxi, UpperBangni, Magar, Haka, Sqiangqin, Motuo-M, Yogli, Manu, Garo, Guiqiong, Shaiyang, Pumi1, Taraon, Pumi2, Burmese, AlikeTibetan, Chang, KonyakD, Bola, Tagin, CHN, WrittenTibetan, Sema, Nqiang, Lepcha, KayanPekon, Leqi, Lushai, Idu, Bodo, Beijing, Achang, Limbu, Sulong, Nishi, HillMiri, LhasaTibetan, Gangte, Shixing, Hakka, Mao, Maram, Kabui, Gallong, Tiddim, OldChinese	100	U+005e U+0070
+t	t	kut¹to, pəta	AngKhonoma, Zhaba, Tamang, Liangmai, Dumi, Zeme, Dhimal, Tagin, Sulong, Hakka, OldChinese, Khoirao, Mzieme, UpperBangni, Chokri, Jiarug, Haka, MijuGeman, Yimchunru, Milang, Apatari, Leqi, Achang, Nishi, HillMiri, Quueyu, Tangkul, Tiddim, JianchuanBai, NinglangNaxi, Kelun, Bokar, Hmar, Magar, Manu, Palaichi, Gazhuo, Ergong, Horpa, Yeinbaw, Chang, Pochuri, Bola, Sunwar, CHN, Sema, PaO, Jingpo, AngKohima, LangsuMaru, Jirel, Lushai, Beijing, Serdukpen, AoMongsen, Dulong, Mao, Gallong, Jinuo	100	U+0074
+⁵⁵	⁵⁵	thə⁵⁵_pka⁵⁵_p, dɔ⁵⁵_pa⁵⁵_su	Quueyu, Shixing, Guiqiong, LhasaTibetan, CuonaM, Pumi1, Muya, Sqiangqin, BatangTibetan, Ersu, Namuzi, Yintale, Kelun, PaO, Leqi, Nusu, LijiangNaxi, Wkayah, Geker, Dulong, Zhaba, NinglangNaxi, Rourou, Manu, Yeinbaw, Pumi2, Anong, Jinuo	100	U+2075 U+2075
+⁵³$	⁵³	ćhi⁵³, ṭwĩʔ⁵³	Lusu, Muya, BatangTibetan, Sgaw, CuonaM, Palaichi, Geker, Pumi1, Geba, Nusu, Guiqiong, Gazhuo, Dulong, Shixing	100	U+2075 U+00b3 U+0024
+ʔ	ʔ	pɨʔɨ, ŋɔ̲ʔ⁵⁵	Sgaw, Palaichi, Geker, Bodo, Geba, PaO, BatangTibetan, Bola, Zhaba, CuonaM, LangsuMaru, Leqi, Dulong, OldChinese, Dumi, Yamphu, Limbu, Tiddim, Rourou, Yeinbaw, Chepang, Padaung, Jingpo, KayanPekon, Achang, Yintale	100	U+0294
+-	<?>	cá-ca-kor, lak-sin	Padam, Shaiyang, Rabha, Garo, Milang, Lepcha, Miji, Lushai, Gurung, Serdukpen, Magar, Yeinbaw, Tagin, Hakka, Thakali, Gallong, OldChinese, Kulung, Dumi, Lhota, Chepang, Padaung, Chang, Sunwar, Bugun, Yamphu, HillMiri, AoChungli	100	U+002d
+b	b	labu, chubui	Zeme, Gurung, Liangmai, Kulung, Manipuri, Chang, Jirel, Idu, Serdukpen, Khoirao, Jiarug, Sqiangqin, Rawang, BatangTibetan, Garo, Wancho, Taraon, Sunwar, Dimasa, XiaxeTibetan, Quueyu, LijiangNaxi, Tamang, NinglangNaxi, Mzieme, Kelun, Aka, Dumi, Bokar, Motuo-M, Manu, Palaichi, Padam, Wkayah, Sherpa, Shaiyang, Miji, Chepang, AlikeTibetan, Khaling, Namuzi, WrittenTibetan, Sema, PaO, Nqiang, Rabha, Apatari, Lusu, Bodo, Limbu, Sulong, AoMongsen, Shixing, Yintale, Mao, Kabui, Milang	100	U+0062
+³³	³³	fu³³_ʒ̣ɨ³³_g, a³³_kɛ³³_mu⁵	Namuzi, Lusu, Guiqiong, Shixing, LijiangNaxi, NinglangNaxi, Manu, Geba, Muya, Anong, Wkayah, Ersu, Leqi, Gazhuo, Jingpo, Yintale, Jinuo, Rourou, Sqiangqin, Palaichi, Padaung, Sgaw, Geker, PaO, Kelun	100	U+00b3 U+00b3
+^h	h	ha, hu	Manu, Lushai, Yamphu, Kulung, Dumi, Nocte, Dhimal, Wkayah, Sgaw, Limbu, XiaxeTibetan, Gangte, Yintale, Kelun, Mzieme, UpperBangni, Magar, Haka, Hmar, Zeme, Yogli, Wancho, Chepang, Milang, Namuzi, Kaike, PaO, Bugun, Dimasa, Serdukpen, Tangkul, Tiddim, Mikir, Aka, Konyak, Manipuri, Yeinbaw, Padaung, Burmese, AlikeTibetan, Chang, Khaling, Geker, Rabha, Lepcha, KayanPekon, Bodo, Sulong, Nishi, Nusu, Shixing	100	U+005e U+0068
+ɛ	ɛ	dʒɛr⁴²_nhɛr⁴², cɛ⁵⁵	Shixing, Pumi1, Namuzi, Limbu, Ersu, Palaichi, Wkayah, Sgaw, Guiqiong, Bola, Anong, Khaling, PaO, Geba, Sulong, Quueyu, Yintale, JianchuanBai, BatangTibetan, Ergong, Padaung, Geker, Muya, Nusu, Thakali, Jinuo, CuonaM, Sherpa, Gazhuo, Nqiang, LangsuMaru, LhasaTibetan, Kelun	100	U+025b
+³¹$	³¹	na³¹, uʔ³¹	Kelun, Achang, Bola, Jingpo, LijiangNaxi, Rourou, LangsuMaru, Anong, Gazhuo, Nusu, Leqi, NinglangNaxi, Yintale, Lusu, Fuzhou, Geker, Shixing, Sqiangqin	100	U+00b3 U+00b9 U+0024
+^kh	kʰ	khaŋ, kholăp	Tamang, Serdukpen, Kulung, Motuo-M, Rawang, Kaike, Yamphu, Tangkul, Kelun, LijiangNaxi, Rourou, Khoirao, Dumi, Aka, Dhimal, Konyak, Manipuri, Gurung, Khaling, Sunwar, Sgaw, WrittenTibetan, Bugun, Muya, Idu, Limbu, Thakali, Tujia, JianchuanBai, Zhaba, CuonaM, NinglangNaxi, Jiarug, Haka, Sqiangqin, Yogli, Manu, Wkayah, Yimchunru, Fuzhou, Guiqiong, Pumi1, Taraon, Gazhuo, Padaung, Burmese, Chang, Anong, Bola, Geker, PaO, Sema, Rengma, Rabha, Nqiang, Dimasa, KayanPekon, Leqi, LhasaTibetan, Nusu, Shixing, Jinuo	100	U+005e U+006b U+0068
+e$	e	se, ke	Zeme, AngKhonoma, Khezhama, Sema, Mao, Rengma, Mikir, Mzieme, UpperBangni, Chokri, Aka, Magar, Hmar, Burmese, Milang, Sangtam, Jiarug, Haka, Sherpa, Dhimal, Padam, Wancho, AlikeTibetan, Apatari, Nishi, Nocte, Yimchunru, Shaiyang, Konyak, Ergong, Horpa, Gurung, Chepang, Pochuri, KonyakD, Khaling, WrittenTibetan, Kaike, Bugun, Lepcha, Lushai, XiaxeTibetan, Gangte, Thakali, Maram, Gallong	100	U+0065 U+0024
+y	y	kyopo, ńy³³_ńy⁵⁵	Sqiangqin, Kaike, Bugun, Thakali, Milang, UpperBangni, Aka, Magar, Lhota, Miji, Gurung, Sema, Lepcha, Apatari, Muya, LijiangNaxi, Rourou, Dumi, Bokar, Padam, Konyak, Khaling, Sunwar, Namuzi, Rengma, HillMiri, AoMongsen, Serdukpen, Quueyu, Shixing, AoChungli, Maram, Tamang, Kelun, Dhimal, Yimchunru, Shaiyang, Pumi1, Chepang, Pumi2, Chang, KonyakD, Tagin, CHN, Lusu, Nishi, Tangkul, Nusu	100	U+0079
+^b	b	buŋ, biŋ	Bodo, Sunwar, Dimasa, Konyak, Milang, Kulung, Dhimal, Miji, Chepang, Bugun, Lepcha, Sulong, Dumi, Bokar, Padam, Garo, Taraon, KayanPekon, Nusu, Gallong, NinglangNaxi, Kelun, UpperBangni, Magar, Sqiangqin, Hmar, MijuGeman, Motuo-M, Manu, Yimchunru, Wkayah, Rawang, Pumi1, Ergong, Khezhama, Horpa, Pumi2, Anong, Khaling, Namuzi, WrittenTibetan, Kaike, PaO, Nqiang, Rabha, Lusu, Yamphu, Lushai, Idu, Serdukpen, HillMiri, Nishi, Hakka, Yintale, Shixing, Dulong, Kabui, Tiddim	100	U+005e U+0062
+³¹	³¹	ü³¹_mou⁵², pu³¹_lo⁵²	Kelun, Anong, Achang, Dulong, Bola, NinglangNaxi, Jingpo, Gazhuo, Fuzhou, Nusu, LangsuMaru, Namuzi, Rourou, Sqiangqin, LijiangNaxi, Leqi, JianchuanBai, Palaichi, Geker, Jinuo	100	U+00b3 U+00b9
+_$	_	gān_, mārʔ_	Beijing, OldChinese, CHN, JianchuanBai, Fuzhou, Rourou, Hakka, Dimasa, Tiddim	100	U+005f U+0024
+n$	n	tin, sen	Haka, Hmar, Chang, Wancho, KonyakD, Lepcha, Lushai, Mikir, Zeme, Padam, Konyak, Serdukpen, Gangte, Kulung, Liangmai, Khoirao, Nocte, Yogli, Yimchunru, Shaiyang, Tagin, Sgaw, Rengma, Bugun, KayanPekon, Bodo, HillMiri, Gallong, Mzieme, UpperBangni, Lhota, Magar, Bokar, Motuo-M, Rawang, Miji, Garo, Chepang, AlikeTibetan, Khaling, WrittenTibetan, Rabha, Nqiang, Yamphu, Limbu, XiaxeTibetan, Thakali	100	U+006e U+0024
+ɔ	ɔ	sćɔ_khɔ_lɔp_pk, ʔɔ⁴⁴	Jiarug, Kulung, Khaling, Kaike, Jinuo, Sgaw, LangsuMaru, Kelun, Palaichi, Manu, Wkayah, Achang, Nusu, Padaung, Leqi, CuonaM, Rourou, Guiqiong, Quueyu, Geker, Geba, Muya, Limbu, Dulong, Yintale	100	U+0254
+ɨ$	ɨ	sɨ, arɨ	Dumi, Khezhama, Chokri, AngKhonoma, Pochuri, Yimchunru, Rengma, Apatari, Phom, Sangtam, Ergong, Sema, AoMongsen, AoChungli, Mao, Lhota, Padam, Shaiyang, Tagin, Bokar, Wkayah, KayanPekon, Nishi, HillMiri, Gallong	100	U+0268 U+0024
+^r	r	ru, ra	AlikeTibetan, Wancho, WrittenTibetan, Quueyu, AngKhonoma, Haka, Garo, Rabha, Muya, Maram, CuonaM, Khoirao, Hmar, Zeme, Wkayah, Pumi1, Yeinbaw, Milang, Sunwar, Lushai, AoMongsen, Dulong, Mao, Kabui, Mikir, Mzieme, Sangtam, Chokri, Lhota, Aka, Magar, Motuo-M, Nocte, Sherpa, Dhimal, Padam, Miji, Yimchunru, Rawang, Shaiyang, Taraon, Konyak, Khezhama, Horpa, Padaung, Pochuri, Geker, Rengma, Nqiang, Lepcha, Dimasa, KayanPekon, Jirel, Bodo, Beijing, XiaxeTibetan, Sulong, LhasaTibetan, Shixing, Tangkul, OldChinese	100	U+005e U+0072
+^th	tʰ	thi, thoŋ	Miji, Lushai, Limbu, Mikir, Haka, Sherpa, Wkayah, Dimasa, AngKohima, Jirel, Gangte, LijiangNaxi, Khoirao, NinglangNaxi, Motuo-M, Hmar, BatangTibetan, Rawang, Yimchunru, Gurung, Padaung, Geker, Kaike, XiaxeTibetan, Quueyu, Thakali, Mao, Kelun, Tamang, CuonaM, Liangmai, Chokri, Aka, Sqiangqin, Nocte, Manu, Phom, Pumi1, Taraon, Horpa, Yeinbaw, Pumi2, AlikeTibetan, Anong, Sgaw, WrittenTibetan, PaO, Nqiang, Lepcha, Geba, KayanPekon, Lusu, Idu, LhasaTibetan, Yintale, Tangkul, Kabui, Jinuo	100	U+005e U+0074 U+0068
+¹	¹	je¹_i¹_po⁴, e¹_lo¹_bra¹	Idu, Jirel, Sulong, Tujia, Tamang, AngKohima, Thakali, MijuGeman, Tiddim, Taraon, Hakka, Gurung, JianchuanBai, CHN	100	U+00b9
+s	s	lak-sin, gusu_<_suʔ	Dimasa, Pumi1, Aka, Garo, WrittenTibetan, Nqiang, Geba, Bodo, Rourou, Khoirao, Sangtam, MijuGeman, Palaichi, Manu, Dhimal, Yimchunru, Padaung, Pumi2, Burmese, Khaling, Sunwar, Sema, Bugun, AoMongsen, Nusu, AoChungli, Tangkul, Jinuo, Tamang, AngKhonoma, Kulung, Zhaba, Liangmai, Chokri, Dumi, Haka, Hmar, Nocte, Guiqiong, Taraon, Manipuri, Ergong, Horpa, KonyakD, Pochuri, Tagin, PaO, Rabha, LangsuMaru, AngKohima, Muya, Lusu, Yamphu, Nishi, Gangte, Hakka, Mao, Maram, Gallong, Tiddim, OldChinese	100	U+0073
+k$	k	sak, mak	Manipuri, Lhota, Nocte, Burmese, Limbu, Mikir, Haka, Padam, Lepcha, Mzieme, Jiarug, Magar, Yogli, Garo, Yimchunru, AoChungli, Tangkul, Khoirao, Bokar, Shaiyang, Wancho, AlikeTibetan, KonyakD, Yamphu, Serdukpen, AoMongsen, Milang, Liangmai, UpperBangni, Zeme, Chepang, Chang, Tagin, Rabha, Bugun, XiaxeTibetan, HillMiri, Maram, Phom, Gallong	100	U+006b U+0024
+m$	m	sam, əm	Jiarug, Dumi, Hmar, Lushai, Motuo-M, Liangmai, Rawang, Garo, Wancho, Manipuri, Kulung, Khoirao, Haka, Lhota, Nocte, Zeme, Shaiyang, Konyak, Chepang, Burmese, KonyakD, Khaling, Kaike, Rabha, Lepcha, Bodo, HillMiri, Nishi, Gangte, Tamang, Mzieme, Sangtam, UpperBangni, Aka, Bokar, Sherpa, Dhimal, Tagin, Nqiang, Kabui, Dimasa, Jirel, Muya, Yamphu, Limbu, Serdukpen, AoMongsen, AoChungli, Tangkul, Phom, Gallong, Milang	100	U+006d U+0024
+d	d	bidəj__<_dəʔj, khɔ⁴⁴_diɛ⁴⁴	Serdukpen, LijiangNaxi, Kabui, Liangmai, Zeme, Padam, Manu, Geba, Bodo, Kelun, Kulung, Khoirao, Mzieme, Shaiyang, Ergong, Khaling, WrittenTibetan, Nqiang, Dimasa, Apatari, Muya, Yamphu, Beijing, Yintale, Gallong, AngKhonoma, Mikir, NinglangNaxi, Chokri, Jiarug, Dumi, Magar, Haka, Sqiangqin, Motuo-M, Nocte, Sherpa, Dhimal, Garo, Guiqiong, Wkayah, Rawang, Konyak, Khezhama, Horpa, Yeinbaw, Pumi2, AlikeTibetan, Chang, Anong, PaO, Rabha, Lepcha, AngKohima, KayanPekon, Jirel, XiaxeTibetan, Nishi, HillMiri, Quueyu, Maram	100	U+0064
+^ŋ	ŋ	ŋa, ŋa⁵⁵	Leqi, Zhaba, JianchuanBai, Bola, LangsuMaru, Rourou, Sherpa, Gurung, Hakka, Dulong, Haka, Motuo-M, Fuzhou, Gazhuo, Chepang, Burmese, Anong, Khaling, Kaike, Jingpo, Achang, AoMongsen, Quueyu, Thakali, Jinuo, LijiangNaxi, Tamang, Khoirao, UpperBangni, Jiarug, Aka, Hmar, Zeme, Yogli, Nocte, Rawang, BatangTibetan, Manipuri, Ergong, Yeinbaw, Chang, Tagin, Lepcha, Apatari, Muya, Jirel, Idu, XiaxeTibetan, Nishi, HillMiri, Gangte, Tangkul, Nusu, Phom, Gallong, Tiddim, Milang	100	U+005e U+014b
+^d	d	do, di	Garo, Lusu, Beijing, Hmar, Miji, Hakka, Gallong, Kelun, Kulung, NinglangNaxi, UpperBangni, Haka, Magar, Bokar, Manu, Padam, Wkayah, Guiqiong, Shaiyang, Rawang, Chepang, Anong, Tagin, Namuzi, Dimasa, Lushai, Bodo, Nishi, HillMiri, Gangte, Tiddim, Aka, Dumi, Motuo-M, MijuGeman, OldChinese, Nocte, Dhimal, Phom, BatangTibetan, Taraon, Yeinbaw, Padaung, Sunwar, Rabha, Nqiang, Lepcha, Apatari, Geba, KayanPekon, Jirel, Idu, Shixing, Dulong, Yintale, Mao, Maram, Kabui	100	U+005e U+0064
+^c	c	cɨ, ca	Yeinbaw, Tamang, Konyak, JianchuanBai, Kulung, AngKhonoma, CuonaM, Garo, Ersu, Padaung, Pochuri, Sema, Sangtam, Lhota, Aka, Dhimal, Fuzhou, Miji, Gazhuo, Gurung, Burmese, Sunwar, PaO, Rabha, Rengma, Leqi, Yamphu, Thakali, Milang, Zhaba, Rourou, Mzieme, Kelun, Magar, MijuGeman, Rawang, Guiqiong, Yimchunru, Wancho, Khezhama, AlikeTibetan, KonyakD, Khaling, CHN, Jingpo, Lepcha, LangsuMaru, AngKohima, Muya, Achang, Limbu, LhasaTibetan, AoMongsen, Tiddim, Jinuo	100	U+005e U+0063
+²$	²	chi², pho²	MijuGeman, Tiddim, Tamang, Sulong, Taraon, Hakka, Gurung, AngKohima, Jirel, Idu, Tujia, JianchuanBai, Thakali, Geker	100	U+00b2 U+0024
+kh	kʰ	haɨ̃¹¹khlɔ¹¹, akhɨna	Padaung, Jinuo, Lhota, Pochuri, Rabha, Geba, Sangtam, Aka, Horpa, Sgaw, NinglangNaxi, Magar, Dumi, Yogli, Nocte, Manu, Yimchunru, Pumi1, Gazhuo, Anong, Khaling, LangsuMaru, Kelun, Tujia, CuonaM, Liangmai, Rourou, Khoirao, Jiarug, Chokri, Haka, Motuo-M, Dhimal, BatangTibetan, Miji, Wkayah, Taraon, Ergong, Yeinbaw, Pumi2, Burmese, AlikeTibetan, KonyakD, Bola, WrittenTibetan, Sema, Geker, PaO, Bugun, Dimasa, AngKohima, Muya, Leqi, Lusu, Limbu, XiaxeTibetan, Serdukpen, AoMongsen, Mao	100	U+006b U+0068
+c	c	acak, gue¹³_ci⁵⁵	Sunwar, Sema, Garo, CHN, Rabha, Sulong, Lhota, Khezhama, Pumi2, Tagin, AoChungli, Gallong, Milang, LijiangNaxi, Tujia, Jiarug, Dumi, Haka, Guiqiong, Miji, Gazhuo, Khaling, AngKohima, Lusu, AoMongsen, Kabui, JianchuanBai, AngKhonoma, CuonaM, Zhaba, NinglangNaxi, Mzieme, Aka, Motuo-M, Manu, Fuzhou, Yimchunru, Konyak, Ergong, Padaung, AlikeTibetan, KonyakD, PaO, Lepcha, Leqi, Idu, Achang, Limbu, Serdukpen, Quueyu, Nusu, Jinuo	100	U+0063
+j	j	ʁjə, nâhjáŋ	Leqi, Zhaba, Bola, LangsuMaru, Horpa, OldChinese, Jiarug, Burmese, WrittenTibetan, KayanPekon, Ergong, Geker, Jingpo, BatangTibetan, Guiqiong, PaO, Bodo, Shixing, Jinuo, NinglangNaxi, Taraon, Yeinbaw, Chepang, AlikeTibetan, Namuzi, Apatari, Lusu, Beijing, Nusu	100	U+006a
+^ch	ch	cha, chi	Liangmai, Wancho, Kulung, CuonaM, Mikir, Manipuri, Zeme, Fuzhou, Gazhuo, Gurung, Tujia, Sangtam, Motuo-M, Nocte, Guiqiong, Konyak, Khezhama, Khaling, Sema, Kaike, Bugun, AngKohima, Nishi, LhasaTibetan, Nusu, Thakali, Tamang, Khoirao, NinglangNaxi, UpperBangni, Chokri, Magar, Sherpa, Ersu, Yimchunru, Chepang, Burmese, AlikeTibetan, Chang, Bola, WrittenTibetan, LangsuMaru, Jirel, Leqi, Beijing, Serdukpen, Gangte, AoMongsen, Tangkul, Mao, Jinuo	100	U+005e U+0063 U+0068
+^ń	ń	ńa, ńa¹³	NinglangNaxi, BatangTibetan, Pumi1, Shixing, Sqiangqin, Ersu, Guiqiong, Anong, LhasaTibetan, Phom, Tamang, CuonaM, Rourou, Sangtam, UpperBangni, Bokar, Miji, Ergong, Horpa, KonyakD, Tagin, WrittenTibetan, Rengma, Bugun, Muya, Jirel, Lusu, Achang, XiaxeTibetan, Serdukpen, Quueyu, Nusu, Gallong, Tujia, LijiangNaxi, Lhota, Sherpa, Rawang, Padam, Wancho, Taraon, Gazhuo, Khezhama, Pumi2, AlikeTibetan, Namuzi, Sgaw, Nqiang, Idu, HillMiri, Nishi, Dulong, Kelun	100	U+005e U+0144
+⁴⁴$	⁴⁴	sɨ⁴⁴, ʔo⁴⁴	Jinuo, Sgaw, Padaung, Manu, Geba, Palaichi, PaO, Yeinbaw, Geker, Rourou, Wkayah, Yintale, Gazhuo	100	U+2074 U+2074 U+0024
+³⁵$	³⁵	ʁo³³_ło³⁵, la³⁵	Pumi1, Shixing, Bola, Nusu, Guiqiong, Rourou, LangsuMaru, Namuzi, Muya, Gazhuo, Lusu, Achang, CuonaM, BatangTibetan, Yintale	100	U+00b3 U+2075 U+0024
+^g	g	gam, gi	Dimasa, Sunwar, Hakka, WrittenTibetan, Beijing, Tiddim, Motuo-M, Garo, Guiqiong, Miji, Jirel, Bodo, Kabui, Kulung, Liangmai, Aka, Sherpa, BatangTibetan, Shaiyang, Pumi1, Taraon, Pumi2, Namuzi, Nqiang, XiaxeTibetan, Gangte, Nusu, Sangtam, UpperBangni, Dumi, Bokar, Magar, MijuGeman, Zeme, Padam, Ersu, Konyak, Chepang, Chang, Tagin, Khaling, Bugun, Lepcha, Apatari, Nishi, HillMiri, Serdukpen, Dulong, Gallong, OldChinese	100	U+005e U+0067
+g	g	sgo_ŋa, wi_ŋgo	WrittenTibetan, Dimasa, Zeme, Horpa, Bodo, Hakka, Jiarug, Gurung, AlikeTibetan, Anong, Rengma, Beijing, Limbu, Kulung, Bokar, Rawang, Konyak, Sunwar, Jirel, Muya, Idu, XiaxeTibetan, AoChungli, Maram, AngKhonoma, Liangmai, Khoirao, Aka, Magar, MijuGeman, Sherpa, Padam, Garo, BatangTibetan, Miji, Shaiyang, Ergong, Khaling, Rabha, Lepcha, AngKohima, Apatari, Serdukpen, Nishi, HillMiri, Shixing, Dulong, Quueyu, Tangkul, Milang	100	U+0067
+³	³	ka³_sa⁴, _phi³_zə	Taraon, AngKohima, MijuGeman, Tujia, Idu, Tamang, CHN, Hakka, Thakali, Gurung, Fuzhou, Tiddim	100	U+00b3
+^y	y	ya, yoŋ	Beijing, Shaiyang, Chang, KonyakD, Apatari, Lhota, Yamphu, AoMongsen, Tamang, Yogli, Padam, Chepang, CHN, Limbu, Sangtam, Bokar, Rawang, Yimchunru, Manipuri, Tagin, Sema, Rengma, Lepcha, Thakali, Maram, Phom, Milang, Kulung, Khoirao, Chokri, Magar, Konyak, Gurung, Kaike, Bugun, Tangkul, Gallong	100	U+005e U+0079
+¹¹$	¹¹	he¹¹, pha¹¹	Padaung, Wkayah, Manu, Yeinbaw, Yintale, PaO	100	U+00b9 U+00b9 U+0024
+^ph	pʰ	phai, phi¹	Tamang, Dumi, Motuo-M, Rawang, Gurung, Yeinbaw, Padaung, Geker, PaO, Bugun, Serdukpen, Nusu, Thakali, AngKhonoma, Mikir, Lhota, MijuGeman, Sherpa, Miji, Guiqiong, KonyakD, Namuzi, Geba, KayanPekon, Yintale, Phom, Jinuo, LijiangNaxi, CuonaM, Liangmai, Khoirao, Magar, OldChinese, Palaichi, Manu, Nocte, Fuzhou, Taraon, Gazhuo, Manipuri, Khezhama, Anong, Sunwar, Sgaw, Kaike, Kabui, Dimasa, LangsuMaru, Jirel, Yamphu, Limbu, XiaxeTibetan, LhasaTibetan, Gangte, Tangkul, Mao, Maram, Tiddim, Kelun	100	U+005e U+0070 U+0068
+v	v	cv¹¹_khvu¹¹, ava	Padaung, Yeinbaw, NinglangNaxi, LijiangNaxi, Gazhuo, Sema, Rourou, Chokri, Mikir, Yogli, Pochuri, AngKohima, Muya, Lushai, Sulong, AngKhonoma, Zhaba, Sangtam, Hmar, Nocte, Palaichi, Miji, Wancho, Ergong, Khezhama, Anong, Rengma, Lepcha, Quueyu, Tangkul, Mao, Maram, Jinuo	100	U+0076
+¹¹	¹¹	śin_¹¹_, mai¹¹_mai¹¹_p	Padaung, CHN, Yintale, Manu, Wkayah, Yeinbaw, PaO, Geker	100	U+00b9 U+00b9
+^_	_	_pho⁴², _bjɔm	Jiarug, Horpa, AngKohima, Rourou, Zhaba, LijiangNaxi, NinglangNaxi, LangsuMaru, Muya, Lusu, Achang, Sqiangqin, Pumi1, Gazhuo, Chepang, Burmese, Anong, Geker, Nqiang, Geba, Bodo, Nusu, Quueyu, Dulong, Thakali, Yintale, Milang, Jinuo	100	U+005e U+005f
+ń	ń	χńi³¹_ńi³³, ćhy⁵⁵_ńy⁵⁵	Sqiangqin, Quueyu, Chokri, Jiarug, Guiqiong, AlikeTibetan, Pochuri, AngKohima, Aka, Nocte, Rengma, Achang, Milang, Tamang, Kelun, Yogli, Ersu, Wkayah, Horpa, Namuzi, Lepcha, Apatari, Muya, Lusu, XiaxeTibetan, Shixing, Phom, Tujia, NinglangNaxi, Sangtam, Motuo-M, BatangTibetan, Padam, Ergong, Khezhama, Burmese, Chang, KonyakD, Tagin, Sgaw, WrittenTibetan, Idu, Nishi, HillMiri, AoMongsen, AoChungli, Gallong, Jinuo	100	U+0144
+ə$	ə	rə, alə	Nqiang, Horpa, Aka, XiaxeTibetan, Gallong, AlikeTibetan, Jiarug, Bokar, Tagin, Padam, HillMiri, Dumi, Magar, Pumi1, AngKohima, Nishi, Kulung, CuonaM, Ergong, Chepang, Quueyu, Jinuo	100	U+0259 U+0024
+^ʔ	ʔ	ʔo⁴⁴, ʔɛʔ⁵³	Palaichi, Geba, PaO, Sgaw, Yintale, Geker, Yeinbaw, Padaung, Chepang, KayanPekon, Anong, OldChinese, Manu, BatangTibetan, Idu, Rourou, Nusu, Motuo-M	100	U+005e U+0294
+th	tʰ	khor-thap, ɣɨ⁴²_tha⁵⁵	Tangkul, Rabha, Mikir, Lhota, WrittenTibetan, Sema, Dimasa, Serdukpen, Tujia, CuonaM, Liangmai, Sangtam, Pochuri, Kabui, Mao, Jinuo, Khoirao, Chokri, Aka, Miji, Yimchunru, Manipuri, Ergong, Horpa, Rourou, Haka, Motuo-M, Hmar, Nocte, Palaichi, Ersu, Wkayah, Khezhama, Yeinbaw, Namuzi, Sgaw, Rengma, Lepcha, LangsuMaru, Geba, AngKohima, Yamphu, Idu, LhasaTibetan, Quueyu, Yintale, Phom, Kelun	100	U+0074 U+0068
+r$	r	thar, kar	Bodo, Mikir, Rawang, Rabha, Bokar, AlikeTibetan, Dimasa, Tangkul, Kulung, Magar, WrittenTibetan, Nqiang, Lepcha, XiaxeTibetan, Nishi, Milang, Jiarug, Dumi, Motuo-M, Haka, Hmar, Shaiyang, Tagin, Khaling, Kaike, Lushai, HillMiri, AoChungli, Gallong, AngKhonoma, UpperBangni, Nocte, Sherpa, Dhimal, Ergong, Apatari, Quueyu	100	U+0072 U+0024
+t$	t	mit, that	Lushai, Lepcha, Hmar, Rawang, Shaiyang, Chepang, Gangte, AoChungli, Nocte, Padam, Manipuri, AoMongsen, Milang, Kulung, Jiarug, Haka, Zeme, Kabui, Mzieme, Palaichi, Wancho, Nqiang, Bugun, Mikir, Khoirao, Lhota, Yogli, Burmese, AlikeTibetan, Chang, Rabha, Serdukpen, Tangkul	100	U+0074 U+0024
+h	h	ləhv⁵⁵, nạ̃¹¹_hɨ⁴⁴	Mao, Liangmai, KonyakD, Rengma, Tangkul, Mikir, Haka, OldChinese, Wancho, Manipuri, Yeinbaw, Idu, Sulong, Lhota, Magar, Dhimal, Yimchunru, Padaung, Pochuri, Namuzi, Sgaw, Sema, Bugun, Lepcha, Apatari, Geba, Limbu, Nishi, Maram, Milang, Kulung, Mzieme, Khoirao, Jiarug, Zeme, Yogli, Nocte, Phom, Khezhama, Burmese, Khaling, Sunwar, Jirel, Bodo, XiaxeTibetan, Serdukpen, Shixing, Kabui, Gallong, Tiddim	100	U+0068
+ph	pʰ	naphaŋ-amin, _pho⁴²	Manu, Ersu, Bugun, Lusu, Yeinbaw, Sgaw, Geba, Kelun, Jinuo, Rourou, Aka, Anong, Sunwar, KayanPekon, Yintale, Zhaba, Chokri, Rawang, Wkayah, Miji, Gazhuo, Padaung, Khaling, Rengma, Serdukpen, Tamang, Liangmai, Mikir, Sangtam, Lhota, MijuGeman, Palaichi, Dhimal, Manipuri, Geker, WrittenTibetan, PaO, Jingpo, Nqiang, AngKohima, Muya, Gangte, Nusu, Mao, Maram	100	U+0070 U+0068
+⁴$	⁴	si⁴, kyam⁴	MijuGeman, Taraon, JianchuanBai, Tujia, Idu, Hakka, Thakali, Tamang, AngKohima, Palaichi, Geba, Jinuo	100	U+2074 U+0024
+³$	³	cha³, tθa̲⁵⁵_phiö³	Tiddim, AngKohima, Thakali, Hakka, Tujia, Tamang, JianchuanBai, Sulong, Nusu, Kelun, Achang, Taraon, Geba, Gurung, Padaung, Leqi, Manu	100	U+00b3 U+0024
+ch	ch	pü³⁵_chɛ³⁵, achu	Zeme, Khezhama, Serdukpen, AoMongsen, Tangkul, Jinuo, Sangtam, Namuzi, Rengma, Nishi, Gangte, Kulung, Mikir, NinglangNaxi, Khoirao, UpperBangni, Chokri, Lhota, Yogli, Nocte, Ersu, Guiqiong, Pumi1, Pumi2, Sema, HillMiri, Mao, Kelun, Tujia, Zhaba, Liangmai, Aka, BatangTibetan, Fuzhou, Yimchunru, Wancho, Manipuri, Konyak, Burmese, Chang, Anong, WrittenTibetan, PaO, Nqiang, Bugun, Muya, Shixing, AoChungli, Quueyu, Maram, Phom	100	U+0063 U+0068
+¹³$	¹³	ri¹³, mi¹³	NinglangNaxi, Pumi2, CuonaM, LhasaTibetan, Quueyu, BatangTibetan, Pumi1, LijiangNaxi	100	U+00b9 U+00b3 U+0024
+⁴⁴	⁴⁴	khu⁴⁴_phiɛ⁴⁴, hə⁴⁴_phə⁴⁴	Palaichi, Jinuo, Geba, Manu, Sgaw, Rourou, Padaung, Yeinbaw, Wkayah, Geker, PaO, Kelun	100	U+2074 U+2074
+w	w	kawoŋ, towa	Hmar, XiaxeTibetan, Jiarug, AoMongsen, Khoirao, Haka, Motuo-M, MijuGeman, Sherpa, KonyakD, Lushai, Tamang, AngKhonoma, Kulung, Rawang, Guiqiong, Shaiyang, Pumi1, Taraon, Yeinbaw, AlikeTibetan, Pochuri, Nqiang, Muya, Gangte, Thakali, Yintale, Mao, Maram, Liangmai, Lhota, Magar, Yogli, Palaichi, Dhimal, Garo, Ergong, Khezhama, Chepang, Gurung, Chang, Khaling, Sunwar, Sgaw, Sema, Jingpo, Bugun, Yamphu, Bodo, Shixing, LhasaTibetan, Kelun	100	U+0077
+^ʒ	ʒ	ʒi, ʒu	Aka, Nqiang, Kabui, Dumi, Phom, AngKhonoma, NinglangNaxi, Magar, Sqiangqin, Miji, Pumi2, Sunwar, Kaike, Apatari, UpperBangni, Konyak, Chepang, Tagin, Dimasa, AngKohima, Nishi, HillMiri, Serdukpen, Shixing, Dulong, CuonaM, Zhaba, Mikir, Khoirao, Sangtam, MijuGeman, Nocte, Sherpa, Dhimal, Ersu, Yimchunru, Pumi1, Taraon, Ergong, Gurung, Anong, Khaling, Namuzi, Jingpo, Rengma, Lepcha, Jirel, XiaxeTibetan, Nusu, Gallong, Milang	100	U+005e U+0292
+^i	i	ip, iya	Mikir, Hakka, Aka, Idu, Dhimal, CHN, Sema, Yamphu, Serdukpen, Hmar, Bokar, Nocte, Padam, Wkayah, Fuzhou, Manipuri, Sunwar, Nishi, AoChungli, LijiangNaxi, Kulung, Dumi, Sqiangqin, Haka, MijuGeman, Magar, Manu, Yogli, Rawang, Yimchunru, Shaiyang, Garo, Wancho, Gazhuo, Konyak, Pumi2, Burmese, Chang, Tagin, Khaling, Lushai, Bodo, Achang, Limbu, AoMongsen, Gangte, Dulong, Tangkul, Mao, Gallong, Milang	100	U+005e U+0069
+L	<?>	go_L¹ŋa_L¹, dok_L²pei_L¹	Jirel, Sherpa, Yimchunru, Mao	100	U+004c
+aː	aː	takaːr, tlaːŋ	Sunwar, Hmar, Padam, Gurung, Limbu, Tamang, Lhota, Dumi, Leqi, Dulong, Tiddim, Lushai, LhasaTibetan, Bokar, Kulung, Shaiyang, UpperBangni, Dhimal, Burmese, Geker, Yamphu	100	U+0061 U+02d0
+^ć	<?>	ća⁵³, ći⁴	Wkayah, LhasaTibetan, BatangTibetan, Quueyu, LijiangNaxi, CuonaM, Nqiang, Tujia, Rourou, Pumi1, CHN, Shixing, JianchuanBai, Guiqiong, Gazhuo, Horpa, Sulong, MijuGeman, Muya, Lusu, OldChinese, NinglangNaxi, Bokar, Sqiangqin, Ergong, Chepang, Namuzi, WrittenTibetan, Idu, Achang, XiaxeTibetan, Dulong	100	U+005e U+0107
+^e	e	ei, e³¹	Lhota, Khezhama, Bugun, Aka, HillMiri, Idu, Shaiyang, UpperBangni, Dhimal, Padam, Achang, Nishi, Gangte, Mikir, Magar, Haka, Manu, Wkayah, BatangTibetan, Manipuri, Tagin, Sunwar, Sema, PaO, Rabha, Rengma, Dimasa, Apatari, Lushai, Yamphu, Bodo, AoMongsen, Shixing, AoChungli, Gallong, Tiddim, Kelun, Jinuo	100	U+005e U+0065
+^š	š	ši, ša	Rawang, Phom, Chang, Lushai, Tamang, Sherpa, Konyak, Jingpo, Jirel, Idu, Tangkul, Liangmai, Aka, Miji, Taraon, Sunwar, Kaike, Bokar, MijuGeman, Padam, Yimchunru, Lepcha, AngKohima, AoChungli, Thakali, AngKhonoma, Chokri, Lhota, Magar, Manipuri, Chepang, Sema, Rengma, Kabui, Bugun, AoMongsen, Mao	100	U+005e U+0161
+z	z	azeŋ, azɨ	Chokri, Pochuri, Beijing, AngKohima, AoChungli, AngKhonoma, Sangtam, Rengma, Zeme, Nqiang, Serdukpen, Aka, Palaichi, Miji, Yimchunru, Gazhuo, Sema, Bugun, KayanPekon, Lusu, Bodo, AoMongsen, Gangte, Quueyu, Tangkul, Jinuo, LijiangNaxi, Tujia, Liangmai, NinglangNaxi, Jiarug, Sqiangqin, Motuo-M, Hmar, Sherpa, Rawang, Ersu, Wancho, Khezhama, Anong, Namuzi, CHN, Lushai, Sulong, Hakka, Nusu	100	U+007a
+^z	z	zɨ, za	Mzieme, Bodo, Tujia, Chokri, Motuo-M, Zeme, Rawang, Ersu, Ergong, Horpa, AngKohima, Beijing, Quueyu, Tiddim, CuonaM, Lhota, Haka, Sqiangqin, Palaichi, BatangTibetan, Wancho, Khezhama, Pochuri, Anong, CHN, WrittenTibetan, Sema, Rengma, Lushai, Serdukpen, Hakka, Kabui, LijiangNaxi, AngKhonoma, NinglangNaxi, Jiarug, Hmar, Miji, Pumi1, Konyak, Namuzi, Nqiang, Bugun, Lepcha, KayanPekon, Muya, Lusu, Gangte, Nusu, Shixing, Tangkul, Mao	100	U+005e U+007a
+^x	x	xui⁵⁵, xu⁵³	Taraon, Beijing, JianchuanBai, Fuzhou, CHN, Tujia, Zhaba, Palaichi, Achang, MijuGeman, Guiqiong, Pumi1, Pumi2, Muya, Hakka, Rourou, BatangTibetan, Gazhuo, Gurung, Bola, Namuzi, Lusu, Shixing, Quueyu, Nusu, OldChinese, Ersu, Horpa, AlikeTibetan, Sgaw, PaO, Nqiang, LangsuMaru, Leqi, Dulong, Kelun, Jinuo	100	U+005e U+0078
+^w	w	wai, waŋ	AlikeTibetan, Ergong, Kulung, KonyakD, Jingpo, Garo, Guiqiong, Chepang, Bugun, Dimasa, Yamphu, Khoirao, Lhota, MijuGeman, Yogli, Dhimal, Miji, Yeinbaw, Burmese, Chang, Sunwar, Leqi, Lusu, Beijing, Tamang, Liangmai, Jiarug, Magar, Motuo-M, Zeme, Manu, Palaichi, Yimchunru, Taraon, Khezhama, Khaling, Geker, PaO, Nqiang, Geba, Jirel, Limbu, XiaxeTibetan, Sulong, AoMongsen, Yintale, Tangkul	100	U+005e U+0077
+^j	j	joŋ, jup⁵⁵	Garo, JianchuanBai, Dimasa, Leqi, Motuo-M, Ersu, Guiqiong, Nusu, Zhaba, Bola, Namuzi, LangsuMaru, Idu, Shixing, BatangTibetan, Pumi1, Gazhuo, Horpa, AlikeTibetan, Sgaw, WrittenTibetan, Geker, Jingpo, Bugun, Lusu, Beijing, LhasaTibetan, Yintale, Kelun, Tujia, CuonaM, Mikir, MijuGeman, Taraon, Ergong, Padaung, Burmese, PaO, Nqiang, Geba, XiaxeTibetan, Sulong, Serdukpen, Jinuo	100	U+005e U+006a
+ʒ	ʒ	aʒi, nɔ⁵⁵_ʒe³³	AoChungli, Mao, Aka, AngKhonoma, Jingpo, AngKohima, Kelun, Wancho, Tagin, Dimasa, Gallong, NinglangNaxi, Sangtam, Jiarug, Yogli, Nocte, Shaiyang, Khezhama, Pumi2, Pochuri, Milang, Anong, Dulong, Liangmai, Khoirao, Mikir, MijuGeman, Sherpa, Zeme, Padam, Ersu, Yimchunru, Pumi1, Manipuri, Gurung, Sunwar, Kaike, Nqiang, Rabha, Rengma, Lepcha, Yamphu, Limbu, XiaxeTibetan, Sulong, Serdukpen, AoMongsen	100	U+0292
+¹³	¹³	siɛ̃¹³_sbõ⁵⁵, rʒ́a¹³_la⁵⁵	Pumi2, BatangTibetan, LhasaTibetan, Quueyu, CuonaM, Pumi1, Yintale, Nqiang, Horpa	100	U+00b9 U+00b3
+³⁵	³⁵	pü³⁵_chɛ³⁵, ʁâ³⁵_lö³³	Pumi1, Muya, Gazhuo, Nusu, Rourou, Guiqiong, Bola, LangsuMaru, CuonaM, Anong, Shixing, Sherpa, Achang, Namuzi, Zhaba, Thakali, Pumi2, LhasaTibetan, Sqiangqin	100	U+00b3 U+2075
+²	²	ćin_²_cı_²_, ćiau_²_pər_²__	CHN, Tamang, AngKohima, Jirel, Gurung, Hakka, JianchuanBai, Thakali, Tujia, Tiddim, AlikeTibetan, Idu, AngKhonoma, Sulong, Taraon, MijuGeman	100	U+00b2
+ʔ$	ʔ	sayʔ, okaʔ	Limbu, Chepang, Bodo, Dhimal, Miji, Geba, Yamphu, Sgaw, Palaichi, BatangTibetan, PaO, Khoirao, Sangtam, Motuo-M	100	U+0294 U+0024
+⁵³	⁵³	hɔ⁵³_khoʔ⁵³_n, tʃɨ⁵³_ńi⁵³	Sgaw, Geker, Geba, Palaichi, Lusu, Nusu, Guiqiong, Shixing, LhasaTibetan, CuonaM, Ersu, Gazhuo, Muya, Dulong, Sqiangqin, BatangTibetan, Pumi1, Pumi2, Namuzi, Nqiang, Leqi, Yintale	100	U+2075 U+00b3
+p$	p	yup, ip	Nocte, Lepcha, HillMiri, AoChungli, Kulung, Lhota, Bokar, Rawang, Burmese, Chang, Rabha, Mikir, Mzieme, Sangtam, Jiarug, Magar, Hmar, Motuo-M, Zeme, Yimchunru, Shaiyang, Konyak, Manipuri, Tagin, Kaike, Nqiang, Bugun, Lushai, Nishi, AoMongsen, Gangte, Quueyu, Milang, NinglangNaxi, Khoirao, UpperBangni, Dumi, Sqiangqin, Yogli, Padam, Wancho, Padaung, AlikeTibetan, Limbu, XiaxeTibetan, Yintale, Serdukpen, Tangkul, Kabui, Gallong	100	U+0070 U+0024
+l$	l	ŋul, hmul	Garo, Yogli, Lushai, Limbu, WrittenTibetan, Gangte, Hmar, Haka, Manipuri, Konyak, Rawang, Lepcha, Nishi, Magar, Dhimal, Chepang, HillMiri, Tujia, Liangmai, UpperBangni, Bokar, Wkayah, Padam, Padaung, Milang, Tagin, Kaike, Geba, KayanPekon, XiaxeTibetan, Nusu, Shixing, Yintale, Kelun	100	U+006c U+0024
+^v	v	vo, vu	Phom, Nocte, Ergong, AngKhonoma, Mikir, Hmar, Wancho, AngKohima, Lushai, Gangte, Nusu, Tiddim, Zhaba, Haka, Horpa, LangsuMaru, JianchuanBai, Rourou, Sangtam, Yogli, Miji, Ersu, Gazhuo, Bola, Lepcha, Muya, Tangkul, Mao, Jinuo, LijiangNaxi, NinglangNaxi, Chokri, Aka, Palaichi, Wkayah, Leqi, Achang	100	U+005e U+0076
+š	š	aši, ašu	Jingpo, Sunwar, Sema, Padam, Konyak, Rengma, Aka, Yogli, Rawang, Tangkul, Phom, Sangtam, Chang, Pochuri, Liangmai, UpperBangni, Bokar, Yimchunru, Idu, AoChungli, Tamang, Chokri, Lhota, Magar, MijuGeman, Sherpa, Shaiyang, Wancho, Gurung, Khezhama, Kaike, Bugun, Lepcha, AngKohima, Jirel, Nishi, Mao	100	U+0161
+^u	u	ui, u¹	Chokri, AngKohima, Manipuri, Aka, Hmar, Garo, Shaiyang, Nusu, Bokar, Haka, Sherpa, Dhimal, Padam, CHN, Yamphu, Bodo, Sulong, AoMongsen, Gangte, Dulong, Phom, Tiddim, Milang, LijiangNaxi, JianchuanBai, Kulung, Zhaba, Rourou, Sangtam, Kelun, MijuGeman, Manu, Rawang, Fuzhou, Miji, Wkayah, Pumi1, Gurung, Horpa, Pumi2, Anong, Khaling, Bugun, Lepcha, LangsuMaru, Apatari, Lushai, Achang, Beijing, Nishi, HillMiri, Hakka	99	U+005e U+0075
+N	<?>	jiN⁶_phiN³, jüN¹jiN⁸	JianchuanBai, Sunwar, Magar, Limbu, Dhimal, Kaike, Dumi, Gurung, Tamang, Kulung, Jirel, Lhota, Aka, Miji, Konyak, Khezhama, Chepang, Khaling, Rabha, Bugun, Bodo, HillMiri	92	U+004e
+^ś	ś	śi⁵³, śa	JianchuanBai, Motuo-M, Anong, CHN, WrittenTibetan, Beijing, XiaxeTibetan, LhasaTibetan, Dulong, CuonaM, Pumi1, BatangTibetan, Guiqiong, Nusu, Rourou, Nqiang, Shixing, Sqiangqin, MijuGeman, Ergong, AlikeTibetan, Jirel, Quueyu	91	U+005e U+015b
+ö	ö	jö³⁵, sö⁵⁵_pö⁵⁵	Konyak, Guiqiong, Muya, BatangTibetan, Fuzhou, Kelun, Khaling, Pumi2, CuonaM, LangsuMaru, Jinuo, Tujia, Bola, LhasaTibetan, Nqiang	88	U+00f6
+^ćh	<?>	ćhi⁵³, ćhi⁵⁵	LhasaTibetan, XiaxeTibetan, BatangTibetan, Anong, AlikeTibetan, Motuo-M, Guiqiong, WrittenTibetan, Rourou, Sqiangqin, Achang, Muya, Shixing, Quueyu, Nusu, LijiangNaxi, Tujia, JianchuanBai, Pumi1, Gazhuo, Ergong, Horpa, Burmese, Namuzi, Lusu, Idu, OldChinese	83	U+005e U+0107 U+0068
+^o	o	ok, oʒɨ	Mao, Bodo, Serdukpen, Wkayah, Bokar, Garo, HillMiri, Mikir, Miji, Shixing, Tujia, Kulung, NinglangNaxi, Rourou, Liangmai, Aka, Yimchunru, Wancho, Manipuri, Konyak, Gurung, Pochuri, Rabha, Bugun, Kabui, Nishi, AoMongsen, LhasaTibetan, AoChungli, Thakali, Phom, Gallong	81	U+005e U+006f
+²²	²²	ʔo²²_pɔ²²_t̯a, ʔo²²_tʃi²²_t	Palaichi, Geba, Geker, Sgaw, PaO, Padaung, Yeinbaw, Manu, KayanPekon	80	U+00b2 U+00b2
+h$	h	ruh, keimah	Haka, Miji, Liangmai, Gangte, Sema, Lushai, KonyakD, Kabui, Chepang, Phom, Nishi, Chang, Tagin, Serdukpen, Hmar	80	U+0068 U+0024
+A$	<?>	mekoA, geA	Sunwar, Sherpa, Mao, Chepang, Motuo-M	78	U+0041 U+0024
+^ə	ə	əm, əli	KonyakD, Nishi, Rawang, Ersu, Padam, Aka, Lusu, LijiangNaxi, Tujia, Namuzi, HillMiri, CHN, Nqiang, Bokar, Horpa, Achang, Tagin, Dimasa	77	U+005e U+0259
+â	â	ẓâ³⁵_mbâ³³, ʒ́â³⁵_lâ⁵³	Muya, Shixing, KayanPekon, BatangTibetan, Pumi1, Pumi2, Nqiang, Horpa	76	U+00e2
+ć	<?>	wćən, guɛ³⁵_ći³⁵	Bokar, XiaxeTibetan, Quueyu, AlikeTibetan, CHN, WrittenTibetan, Nqiang, Wkayah, Horpa, Tujia, Jiarug, Motuo-M, Guiqiong, Pumi1, Gazhuo, Ergong, Idu, Achang, Dulong, Rourou, MijuGeman, Manu, Dhimal, Taraon, Muya, Lusu, Sulong, LhasaTibetan, Nusu	72	U+0107
+^sh	sh	she, she_rə	Beijing, XiaxeTibetan, Horpa, KayanPekon, AlikeTibetan, Sgaw, Geker, Yintale, BatangTibetan, Ergong, Wkayah, Kaike, Padaung, Geba, Palaichi, WrittenTibetan, Bugun, Yeinbaw, Pumi2, Manu	71	U+005e U+0073 U+0068
+ü	ü	püyüH, pü³⁵_chɛ³⁵	Fuzhou, JianchuanBai, Pumi1, Khaling, LhasaTibetan, BatangTibetan, Guiqiong, Lusu, Namuzi, Konyak, Chokri, Padaung	70	U+00fc
+ɣ	ɣ	mɨ³³_ɣa³³, ćhə_ɣə	Sema, Palaichi, Sgaw, Sulong, Horpa, AlikeTibetan, Geker, NinglangNaxi, Rourou, Khoirao, Ergong, Nqiang, Muya, Lusu, Quueyu, Maram, Kelun, Tujia, LijiangNaxi, BatangTibetan, Pumi1, Khezhama, Anong, Bola, Namuzi, LangsuMaru, Leqi, XiaxeTibetan, Serdukpen, Jinuo	67	U+0263
+⁵$	⁵	ɛ³³_bu³³_bu⁵, pra³³_prəmuʔ⁵	AngKohima, Fuzhou, Hakka, Geker, Lusu, Palaichi, BatangTibetan, Guiqiong, Geba, LangsuMaru, Muya, Quueyu, Yintale, Dulong, Shixing, Tujia, Sqiangqin, Pumi2, Bola, Namuzi, KayanPekon, Achang, Nusu, Jinuo	66	U+2075 U+0024
+iː	iː	liːpo, jiː³³	Sunwar, Dumi, Tamang, Bokar, Yamphu, Burmese, Dulong, Gallong, Kulung, Lhota, Tiddim, Leqi, Limbu, CuonaM, Sqiangqin, Sherpa, Gurung, Sgaw, Geker, Jirel, Nishi, Yintale	66	U+0069 U+02d0
+^ɣ	ɣ	ɣe³³, ɣɨ⁴²_tha⁵⁵	Horpa, AlikeTibetan, Tujia, Rourou, Muya, Lusu, Jinuo, NinglangNaxi, Sgaw, Quueyu, LijiangNaxi, Guiqiong, Bola, Nqiang, LangsuMaru, Sulong, Shixing, JianchuanBai, Palaichi, Pumi1, Gazhuo, Ergong, Namuzi, Geba, Kelun	65	U+005e U+0263
+^ṣ	ṣ	ṣɨ³³, ṣɨ⁵⁵	Ersu, NinglangNaxi, Namuzi, LijiangNaxi, Achang, Pumi2, Quueyu, Shixing, Lusu, Pumi1, Yintale, Horpa, Sqiangqin, Guiqiong, Nqiang, Ergong	64	U+005e U+1e63
+T	<?>	kok_L¹ten_T¹, tha_L¹la_T¹	Jirel, Quueyu, BatangTibetan, AlikeTibetan, Ersu, Pumi1, Shixing, Lepcha, Mao, Muya, Lusu	63	U+0054
+ɛ$	ɛ	mɛ, vśɛ	Ergong, Horpa, Khaling, Sherpa, Rawang, Thakali, Geba, Gazhuo, Nqiang, Tangkul	62	U+025b U+0024
+^ʃ	ʃ	ʃi⁵⁵, ʃək_phu	Zhaba, Leqi, Bola, Jinuo, LangsuMaru, Jiarug, Pumi2, Quueyu, Yintale, Geba, Guiqiong, Achang, Palaichi, Kaike, Nusu, Sqiangqin, Thakali	61	U+005e U+0283
+ă	ă	mă³¹_sa³¹, kholăp	Lepcha, MijuGeman, Kelun, Konyak, Achang, Bola, Zhaba, Palaichi, LangsuMaru	59	U+0103
+x	x	nị⁴²_xɨə³³, na²²_xɨ⁴⁴	Gurung, Palaichi, Kelun, Guiqiong, Yintale, Tujia, Wkayah, Anong, Geker, Achang, Zhaba, Rourou, Fuzhou, Pumi1, Taraon, Bola, Namuzi, Nqiang, Lusu, Beijing, Quueyu, Dulong, Jinuo	58	U+0078
+^ṭ	ṭ	ṭuʔ⁵³, ṭi³	Geker, Sgaw, Kaike, Thakali, Magar, Geba, Tamang, Sherpa, Hmar, Jirel, Palaichi, Lushai, Gazhuo, Gurung	58	U+005e U+1e6d
+²²$	²²	t̯a²²_nɛ²², məna³³_kha²²	PaO, Palaichi, Geker, Yeinbaw, Geba, Padaung, Sgaw, Yintale	57	U+00b2 U+00b2 U+0024
+ã	ã	ći⁵⁵_rã³³, ŋã³³_ŋã⁵⁵	Pumi1, Geba, Sgaw, Pumi2, Rourou, Shixing, Padaung, Guiqiong, Yintale, Yeinbaw, Muya, Manu, Anong, Sunwar, WrittenTibetan, PaO, Nusu, Nqiang, Gurung, Magar	55	U+00e3
+eː	eː	khɛseːʔ, ɦeːdaː	Limbu, Tiddim, Dumi, Sunwar, Bokar, Yamphu, Leqi, Sgaw, Nishi, Dulong, Tamang, Kulung, CuonaM, Mikir, UpperBangni, Magar, Hmar, Gurung, Khaling, Geker, Lushai, Sulong, LhasaTibetan, Gangte	55	U+0065 U+02d0
+ɔ$	ɔ	sɔkɔ, ŋɔ	Jiarug, Kaike, Kulung, Shaiyang, Khaling, Sgaw, Ergong, Gurung, Geker, Nusu, Kelun, Manu	54	U+0254 U+0024
+²¹$	²¹	liŋ⁵¹_ciŋ²¹, noʔ²¹	Zhaba, LijiangNaxi, JianchuanBai, Bola, Kaike, Leqi	54	U+00b2 U+00b9 U+0024
+æ	æ	sæ⁴²_cẽ³³, næ⁴⁴_khæ³¹	Rourou, Lusu, Sulong, Namuzi, AlikeTibetan, Geker, Shixing, Muya	53	U+00e6
+⁴	⁴	ma⁴_ma⁴_tie¹, ći⁴_thi⁴_kh	Tujia, JianchuanBai, Taraon, Hakka, AngKohima, Tamang, Sgaw, MijuGeman, Thakali	53	U+2074
+^ʒ́	ʒ́	ʒ́â³⁵_lâ⁵³, ʒ́i³¹_ɣo¹³	NinglangNaxi, BatangTibetan, Shixing, Muya, Bokar, Sqiangqin, Motuo-M, Lusu, Beijing, XiaxeTibetan, Ergong, Horpa, Anong, Nusu, CuonaM, Guiqiong, Pumi1, Namuzi, Idu, Quueyu, Dulong	53	U+005e U+0292 U+0301
+oː	oː	thoːwoːna, hoːrik	Lhota, Limbu, Sunwar, Tiddim, Dumi, LhasaTibetan, Gallong, Yamphu, HillMiri, Bokar	52	U+006f U+02d0
+H	<?>	pumuHF, thiŋmeHF	Sherpa, Tujia, Khaling, XiaxeTibetan, Namuzi, CuonaM, WrittenTibetan, Gazhuo, Mao	51	U+0048
+á	á	nâhjáŋ, máo_	Beijing, Rabha, KonyakD, Lepcha, Apatari, KayanPekon, Anong, Hakka	51	U+00e1
+ɛ̃	ɛ̃	siɛ̃¹³_sbõ⁵⁵, ŋɛ̃⁵⁵_ŋɛ̃⁵⁵_t	Guiqiong, Shixing, Pumi1, Geba, Pumi2, Anong, Sgaw, Bola, LangsuMaru, LhasaTibetan, Yintale, Horpa, Lusu	50	U+025b U+0303
+ĩ	ĩ	hĩ⁵⁵, ṭwĩʔ⁵³	Gurung, Shixing, Guiqiong, Namuzi, Sgaw, BatangTibetan, Geba, Pumi1, Fuzhou, NinglangNaxi, LhasaTibetan, Pumi2, Yintale, Bugun, Palaichi	49	U+0129
+ā	ā	gān_, rātiŋ	OldChinese, Konyak, Beijing, Chang, KayanPekon, MijuGeman	48	U+0101
+L$	<?>	ʒara_NPL, baluwa_NPL	Khaling, Sunwar, Magar, Kaike, Gurung, Dhimal, Tamang, Dumi, Jirel, Chepang	46	U+004c U+0024
+a̲	a̲	na̲³¹_xu⁵⁵, tθa̲⁵⁵_phiö³	Kelun, Bola, Jingpo, LangsuMaru, Zhaba, Leqi, Sulong, Burmese	43	U+0061 U+0332
+⁵²$	⁵²	pu³¹_lo⁵², ü³¹_mou⁵²	Fuzhou, LhasaTibetan, Beijing, Tujia	43	U+2075 U+00b2 U+0024
+^f	f	fa, fe	Lepcha, Namuzi, Hakka, Horpa, Beijing, Gazhuo, Palaichi, JianchuanBai, CHN, Hmar, Pochuri, Miji, Guiqiong, Rourou, Sangtam, Tangkul, Lhota, LangsuMaru, Lusu	43	U+005e U+0066
+õ	õ	siɛ̃¹³_sbõ⁵⁵, ńõ³⁵	BatangTibetan, Pumi2, Gurung, Pumi1, Geba, Rourou, Manu, Sunwar, Geker, Nusu, Padaung, Magar, Jinuo	42	U+00f5
+ũ	ũ	ra⁵⁵_ɦũ³³, thũ¹³__thũ¹	Shixing, BatangTibetan, Guiqiong, Gurung, Namuzi, Yintale, Wkayah, NinglangNaxi, Nusu, Manu, Muya, Quueyu, Magar, Geba, Jirel, Lusu	42	U+0169
+R$	<?>	me_LR, thalǯum_LR	Sherpa, Rawang, Nusu, XiaxeTibetan	41	U+0052 U+0024
+ẓ	ẓ	ma³¹_ẓi⁵⁵, ɛ⁵⁵_ẓə⁵⁵	Achang, Ergong, Sqiangqin, Pumi2, Pumi1, Muya, Shixing, Nqiang	41	U+1e93
+f	f	rə³_pfə¹, kerepfɨ	Khezhama, AngKhonoma, UpperBangni, Mao, AngKohima, Beijing, Sulong, LijiangNaxi, Palaichi, Hakka, Bola, CHN, Pumi2, Tangkul, Aka, Haka, Leqi	40	U+0066
+ś	ś	vśɛ, pɨ³¹_śiŋ⁵³_śi	AlikeTibetan, Beijing, Anong, CHN, Ergong, Dulong, Pumi1, Shixing, Nqiang, Guiqiong, JianchuanBai, Sqiangqin, Muya	39	U+015b
+^ẓ	ẓ	ẓâ³⁵_mbâ³³, ẓɨ³⁵	Ergong, Muya, NinglangNaxi, Pumi2, Guiqiong, Sqiangqin, LijiangNaxi, Pumi1, Namuzi, Achang, Shixing, Nqiang	39	U+005e U+1e93
+⁴²$	⁴²	mhe⁴²_kha⁴², _pho⁴²	Jinuo, Rourou, Nusu, PaO	38	U+2074 U+00b2 U+0024
+ạ	ạ	kạu¹¹_ko⁵⁵, təprạ³³	Manu, Yeinbaw, Padaung, Sgaw, Wkayah, Geker	37	U+1ea1
+w$	w	tə̀w, hə̀tə́w	Bugun, KonyakD, Miji, Haka, Rawang, Bodo, Kaike, Aka, Chepang, Serdukpen, Dimasa	37	U+0077 U+0024
+ćh	<?>	ŋə_ćho, ʔo_ćho	Tujia, Anong, XiaxeTibetan, Horpa, AlikeTibetan, BatangTibetan, Jinuo, Idu, Guiqiong, Achang, Pumi1, WrittenTibetan, LhasaTibetan, Gazhuo, Quueyu, Ergong, Jiarug, Motuo-M	37	U+0107 U+0068
+H$	<?>	püyüH, saŋgarH	Khaling, Sherpa	35	U+0048 U+0024
+¹²	¹²	sı_¹²_t`əu_¹²_śY, nan_¹²_zen_¹²_	CHN, CuonaM	35	U+00b9 U+00b2
+P	<?>	ʒara_NPL, baluwa_NPL	Sunwar, Magar, Kaike, Gurung, Dhimal, Tamang, Dumi, Jirel, Khaling, Chepang	35	U+0050
+⁵¹$	⁵¹	b̄a⁵⁵_lʌi⁵¹, ke⁵¹	Zhaba, Geker, Jingpo, Sgaw, Kaike	35	U+2075 U+00b9 U+0024
+ẽ	ẽ	sẽ³⁵_bõ³⁵, cẽdõ²	Pumi1, Rourou, Gurung, LhasaTibetan, Padaung, Sgaw, BatangTibetan, Nusu, Shixing, Geba, Lhota, Pumi2	34	U+1ebd
+__	__	duha__<__N, ʒɔntɔ__IND	Dhimal, WrittenTibetan, CuonaM, Namuzi, Bodo, Limbu, Tujia, Zhaba, Aka, Bokar, Sqiangqin, Motuo-M, Sherpa, BatangTibetan, Guiqiong, Gazhuo, Yeinbaw, AlikeTibetan, KonyakD, Kaike, Jingpo, Muya, HillMiri, LhasaTibetan, Mao, Jinuo	34	U+005f U+005f
+EE$	<?>	nə_mo_EE, beːm¹_EE	CuonaM, NinglangNaxi, LijiangNaxi, Dumi, Sqiangqin, Gazhuo, AlikeTibetan, LhasaTibetan, Nusu, Tiddim, Zhaba, Sherpa, Guiqiong, Pumi2, Namuzi, Sunwar, Lusu, Lushai, Achang, XiaxeTibetan, Gangte	33	U+0045 U+0045 U+0024
+y$	y	ʁo⁵⁵_ər⁵⁵_ly, sùy	KonyakD, Chepang, Namuzi, Rabha, Guiqiong, Khaling, Kaike, PaO, Shixing, Nqiang, UpperBangni, Khezhama, Dimasa, Magar	32	U+0079 U+0024
+^ź	<?>	źe³³, źap⁵⁵	Yeinbaw, Wkayah, NinglangNaxi, Rourou, LijiangNaxi, BatangTibetan, Achang, Pumi1, PaO, Quueyu, Manu, Ergong, Lusu	32	U+005e U+017a
+ṣ	ṣ	phṣɨ_phṣu, ṣa⁵⁵_ṣa⁵³	Namuzi, Lusu, Yintale, Achang, Ergong, Ersu, Nqiang, Horpa, Pumi2, Guiqiong, NinglangNaxi, Quueyu	32	U+1e63
+ṭ	ṭ	ṭo⁴⁴_ṭɛ⁴⁴, kəṭɛ²²_hɛ⁴⁴	Geba, Geker, Sgaw, Thakali, Magar, Sherpa, Sunwar, Kaike, Konyak, Palaichi	32	U+1e6d
+⁴²	⁴²	mhe⁴²_kha⁴², nị⁴²_xɨə³³	Jinuo, Rourou, Wkayah, JianchuanBai, Nusu, Geba	31	U+2074 U+00b2
+à	à	bài_bwâŋ, nām_mjàŋ	Beijing, Apatari, KayanPekon, KonyakD, Chang, Dimasa	30	U+00e0
+^nh	nh	nhəʔ_, nhima	Dhimal, Nusu, OldChinese, Jinuo, AngKhonoma, Kaike, Khezhama, Achang, Khaling, Pumi1, Khoirao, Quueyu, Chokri, AngKohima, LangsuMaru	30	U+005e U+006e U+0068
+^χ	χ	χər³¹, χe³³_me³³	Sqiangqin, LijiangNaxi, NinglangNaxi, Rawang, Achang, Anong, Namuzi, Shixing, Dulong, Nqiang	29	U+005e U+03c7
+ó	ó	tóy, a-cóm	Lepcha, KonyakD, Beijing, Rabha, Apatari, KayanPekon	28	U+00f3
+s$	s	nis, lis	Magar, Yamphu, Nqiang, Chepang, Khaling, WrittenTibetan, Kulung, Sunwar, Konyak, Jiarug, Lusu	28	U+0073 U+0024
+ŋh	ŋh	eŋhiŋ, iŋho	Mao, Yogli, Mikir, Gangte, Tangkul, Lushai, KonyakD, Phom, Wancho, Taraon, Liangmai, Sangtam, Lhota, Haka, Maram, Hmar, KayanPekon	28	U+014b U+0068
+N$	<?>	naːkhɛN, luN	Limbu, Kulung, Tujia, Dhimal, Yimchunru, Namuzi, Gazhuo, Dumi	28	U+004e U+0024
+j$	j	hataj, maŋaʔj	Bodo, Burmese, UpperBangni	27	U+006a U+0024
+^θ	θ	θɨ¹¹_khɨ⁵⁵, θɨ̃¹¹_mɨ¹¹	Yeinbaw, KayanPekon, Padaung, Sulong	27	U+005e U+03b8
+^mh	mh	mha, mhe⁴²_kha⁴²	Kaike, Magar, OldChinese, Jinuo, Nusu, Quueyu, Lhota, Dhimal, Achang, AngKhonoma, Pumi1, NinglangNaxi, Khezhama, Pumi2	27	U+005e U+006d U+0068
+^tʃ	tʃ	tʃɨ⁵³_ńi⁵³, tʃi³³	Guiqiong, Zhaba, Sqiangqin, Pumi2, Bola, Quueyu, Nqiang, Geba, LangsuMaru, Jinuo, Jiarug, Leqi	26	U+005e U+0074 U+0283
+^oː	oː	oːmi_ekhu, oːlaː̃	Lhota, Tagin	26	U+005e U+006f U+02d0
+F$	<?>	pumuHF, thiŋmeHF	Sherpa, XiaxeTibetan	26	U+0046 U+0024
+uː	uː	luːgu, ruːl	Tiddim, Lushai, Lhota, Hmar, Nishi, Dulong, Leqi, Tamang, Sunwar, CuonaM, Jirel	26	U+0075 U+02d0
+^ʁ	ʁ	ʁo³³_ʒ̣e³³, ʁjə	Namuzi, Muya, Ergong, Horpa, Shixing, Sqiangqin, AlikeTibetan, Nqiang	26	U+005e U+0281
+g$	g	dag, fu³³_ʒ̣ɨ³³_g	WrittenTibetan, UpperBangni, Namuzi, Nishi, Konyak, Tujia, Padam, Miji, Tagin, Shaiyang, HillMiri, Maram, Gallong	25	U+0067 U+0024
+^q	q	qa, qa³¹_thya⁵⁵	Quueyu, Nqiang, Sqiangqin, Ergong, Pumi2, Muya, Guiqiong, Shixing, Horpa, Dulong	25	U+005e U+0071
+^t̯	t̯	t̯a²²_nɛ²², t̯əra⁵⁵_mi³¹	Palaichi, Geba, Geker, Sgaw, KayanPekon	25	U+005e U+0074 U+032f
+^ł	ɬ	łi⁵⁵, łie⁵⁵_qho⁵⁵	NinglangNaxi, Shixing, Quueyu, Jinuo, Pumi1, Namuzi, Pumi2, Geba, Ersu, LhasaTibetan, Ergong, Horpa, Lusu	25	U+005e U+0142
+B$	<?>	puluB, ʒaB	Sunwar, Sherpa	24	U+0042 U+0024
+ī	ī	śīn_, machī_IND	Beijing, Konyak, OldChinese, BatangTibetan, Tujia, LhasaTibetan, Lhota	24	U+012b
+⁶$	<?>	sua⁶, mi⁶	JianchuanBai, Hakka	24	U+2076 U+0024
+ž	ž	eži, phiže	Sema, Pochuri, Mao, Miji, AngKhonoma, Khezhama, Yimchunru, Rengma	24	U+017e
+q	q	lo⁵⁵_qua³³, inqua	Sqiangqin, Namuzi, Quueyu, Ergong, Shaiyang, Pumi1, Shixing, Guiqiong, Nqiang	24	U+0071
+θ	θ	tθa̲⁵⁵_phiö³, a³¹_tθi̲⁵⁵_t	Kelun, KayanPekon, Yeinbaw, Sulong, Padaung	24	U+03b8
+aː$	aː	asaː, swaː	Burmese, Tamang, Nqiang, Gurung, Bokar, Yamphu, Nishi, Kaike, Yintale	24	U+0061 U+02d0 U+0024
+mm	mm	imma, thammoi	Limbu, Kaike, Yamphu, Beijing, Kulung, Manipuri, Kabui, Haka, Phom, Gallong, Zeme	22	U+006d U+006d
+d$	d	ʒu²⁴¹_bə³¹_d, khad	WrittenTibetan, Yamphu, Liangmai, Sqiangqin, Bodo, Guiqiong, Namuzi, HillMiri, Konyak, Geba	22	U+0064 U+0024
+iː$	iː	miː, šiː	Bokar, Burmese, Dumi, Kulung, Yamphu, Tamang, Limbu	22	U+0069 U+02d0 U+0024
+ä$	ä	rkar_mä, kan_nä	AlikeTibetan, Yamphu, LhasaTibetan, Khaling	22	U+00e4 U+0024
+²¹	²¹	a²¹_sak²¹__EE, a²¹_xaʔ⁵⁵	Zhaba, Kaike	22	U+00b2 U+00b9
+ɔ̃	ɔ̃	chɔ̃³³, tɔ̃³³_jɔ̃⁵³	Guiqiong, Bola, Shixing, LangsuMaru, Namuzi, Rourou	22	U+0254 U+0303
+ɨ̃	ɨ̃	θɨ̃¹¹_mɨ¹¹, haɨ̃¹¹_sɔɨ̃⁴⁴	Padaung, Yeinbaw, Rourou, Anong, Sgaw, Shixing, Geba	21	U+0268 U+0303
+__$	__	t`u_²__, cuei_²__	OldChinese, CHN, Beijing	21	U+005f U+005f U+0024
+u̲	u̲	bu̲⁵⁵, a³¹_tθu̲⁵⁵	Zhaba, Kelun, Jingpo, Leqi, Bola, Gazhuo	21	U+0075 U+0332
+mh	mh	kemhu, kɨmhɨ	Rengma, Jinuo, Chokri, Lhota, AngKohima, Pochuri, AngKhonoma, Pumi1, Sema, Quueyu, Shixing, Leqi, Khezhama, Jingpo	21	U+006d U+0068
+I	<?>	machī_IND, bherpa_IND	Tujia, Dhimal, Miji, Bodo, Limbu, Namuzi, Sunwar, Kaike, HillMiri, Gazhuo, Konyak, Rabha, Bugun, Khezhama, Lhota, Chepang, Aka	21	U+0049
+i̲	i̲	tʃi̲⁵⁵_tʃi̲n, a³¹_tθi̲⁵⁵_t	Kelun, Zhaba, Jingpo, Bola, LangsuMaru, NinglangNaxi, Leqi	21	U+0069 U+0332
+ʃ	ʃ	_ʃi, _ʃə	Jiarug, Jinuo, Leqi, Guiqiong, Bola, Palaichi, Geker, Gazhuo, Pumi2, Yintale, LangsuMaru, Geba	20	U+0283
+ź	<?>	sẽ⁵⁵_źã³⁵, ʔɨ³¹_źɨ³¹	Ergong, Shixing, Lusu, Anong, Wkayah, Achang, Pumi1, Sulong, Rourou, Quueyu, Nusu, Padaung	20	U+017a
+sh	sh	phaʔ⁵³_sha⁴⁴, ʔəshɨ²²_ʔəza⁴	Palaichi, Geker, Geba, Wkayah, Sgaw, AlikeTibetan, Beijing, AngKhonoma, Yintale, Bugun	20	U+0073 U+0068
+nh	nh	kenhaŋ, inhlieu	Sema, Chokri, Sherpa, Dhimal, AngKhonoma, Wancho, Pumi1, Kaike, AoMongsen, Quueyu, Nusu, Rengma, Khezhama, Pumi2, Hmar, Jinuo	20	U+006e U+0068
+ṿ	ṿ	lṿu¹¹, prṿ¹¹_kho⁵⁵	Yeinbaw, Padaung	20	U+1e7f
+ẹ	<?>	plẹ¹¹, lẹ¹¹	Wkayah, Yeinbaw, Padaung, Manu, Sgaw, PaO	20	U+1eb9
+tʃ	tʃ	pɛ̲⁵⁵_tʃuŋ³¹, _mtʃik	Jiarug, Bola, Zhaba, Quueyu, Jinuo, Leqi, LangsuMaru, Geba, Palaichi	19	U+0074 U+0283
+ŭ	ŭ	dŭböŋ, šŭm	Lepcha, Konyak, Zhaba, OldChinese	18	U+016d
+⁵	⁵	pe⁵_ra⁵_mie¹, sep⁵_ma²	Hakka, AngKohima, Fuzhou, JianchuanBai	18	U+2075
+`	<?>	p`i_¹²_p`i_¹¹_, ć`io_¹²_ć`iər_¹¹_	CHN, Beijing	18	U+0060
+í$	í	lí, sí	Lepcha, KonyakD, Rabha, KayanPekon, HillMiri, Apatari, Kelun	18	U+00ed U+0024
+eː$	eː	mjuiː_ceː, leː	Burmese, Lushai, Limbu, Bokar, Padam, Hmar	17	U+0065 U+02d0 U+0024
+'$	<?>	bŏd', i_'go_down'	Konyak, Nishi, UpperBangni, KonyakD, MijuGeman	17	U+0027 U+0024
+²⁴²$	²⁴²	ŋai²⁴², louŋ²⁴²	Fuzhou	17	U+00b2 U+2074 U+00b2 U+0024
+ŏ	ŏ	bŏd', ṭhŏl	Zhaba, Konyak, Leqi, Achang, Kaike, OldChinese	17	U+014f
+^ʒ̣	ʒ̣	ʒ̣u⁵⁵, ʒ̣ũ⁵³_la⁵⁵	Lusu, Nqiang, Muya, Ersu, Guiqiong, Pumi1, CuonaM, NinglangNaxi, Shixing, Pumi2, Sqiangqin, Motuo-M	17	U+005e U+0292 U+0323
+ị	ị	nị⁴²_xɨə³³, trị⁵⁵	Wkayah, Manu, Yeinbaw, Sgaw, Padaung	17	U+1ecb
+ks	ks	miksi, liksei	Dumi, Chang, Sunwar, Pochuri, Yimchunru, Kulung, HillMiri, AoMongsen, Gangte, Manipuri, Tangkul, OldChinese, Yogli	17	U+006b U+0073
+^lh	lh	lha, lhɛ³³	Kaike, Magar, Dhimal, Thakali, Sherpa, Anong, Achang, WrittenTibetan, LangsuMaru, Jirel, OldChinese	17	U+005e U+006c U+0068
+ɔ̲	ɔ̲	ŋɔ̲ʔ⁵⁵, kɔ̲³⁵	Leqi, LangsuMaru, Bola, Wkayah, Sulong, Kelun	16	U+0254 U+0332
+χ	χ	ŋa⁵⁵_χo³³, cə_χa	Sqiangqin, XiaxeTibetan, Shixing, Nqiang, Aka, LijiangNaxi, Anong, Namuzi, NinglangNaxi	16	U+03c7
+ɛ̲	ɛ̲	sɛ̲ʔ⁵⁵, pɛ̲⁵⁵_tʃuŋ³¹	Kelun, Bola, Namuzi, LangsuMaru, Sulong, Leqi	16	U+025b U+0332
+ō	ō	bōṭhöŋ, khōʔ_	OldChinese, Beijing, Konyak, Chang, Jingpo, KayanPekon	16	U+014d
+ú	ú	ŋúnu, ʔúlə́	Rabha, Beijing, Apatari, KayanPekon, KonyakD, Shaiyang, Sema	16	U+00fa
+ʌ	ʌ	shwʌiʔ⁵³_lɔ²², b̄a⁵⁵_lʌi⁵¹	Geker, PaO	16	U+028c
+ụ	ụ	tụ¹¹_khlai⁴⁴, lụ⁴⁴_bɔ¹¹	Yeinbaw, Manu, Wkayah, Padaung, Sgaw	15	U+1ee5
+ɔː	ɔː	jɔː⁵⁵_kjɔː³³, tɔːsəm	Leqi, Dulong, Kulung, Limbu, Sgaw, KayanPekon	15	U+0254 U+02d0
+ó$	ó	prạ̀khó, bó	Apatari, KayanPekon, Lepcha, Rabha	15	U+00f3 U+0024
+^c̣h	c̣h	c̣hɨ³³, c̣hə¹³	Pumi2, Pumi1, Muya, LijiangNaxi, Ersu, Guiqiong, Namuzi, NinglangNaxi, Nusu, Quueyu, Lusu	15	U+005e U+0063 U+0323 U+0068
+c$	c	hnac, srəc	Burmese, Chepang, Konyak, Guiqiong, Namuzi, Kaike	15	U+0063 U+0024
+^i$	i	i	Mikir, Yimchunru, Shaiyang, Limbu, Liangmai, Mzieme, Manipuri, Sangtam, Rabha, Chokri, Bugun, Phom, Burmese, Zeme	15	U+005e U+0069 U+0024
+^ɦ	ɦ	ɦeːko, ɦeːdaː	Bokar, Muya, Ergong, Namuzi, Sulong, Lusu	15	U+005e U+0266
+⁸$	<?>	jüN¹jiN⁸, a³to⁸	JianchuanBai	14	U+2078 U+0024
+^bh	bh	bhey, bhonoi	Khaling, Dhimal, Dumi, Magar, OldChinese, Kaike	14	U+005e U+0062 U+0068
+ǎ	ǎ	jiǎo_, yǎo_	Beijing	14	U+01ce
+^à	à	àńaŋ, àló	Apatari, Milang	14	U+005e U+00e0
+^aː	aː	aːŋ⁵⁵_rɨ⁵⁵, aːŋ³¹_niːŋ⁵⁵	Dulong, Lushai, Padam, Nishi, Gurung, Bokar, Hmar, Tiddim	14	U+005e U+0061 U+02d0
+^ʃh	ʃh	ʃhɨ⁵⁵, ʃhi⁴⁴	Yeinbaw, Manu, Padaung	14	U+005e U+0283 U+0068
+ə̃	ə̃	si⁵³_ʒə̃³⁵_a, _sə̃r⁵⁵	Nusu, Shixing, Yeinbaw, Sgaw, Pumi2	14	U+0259 U+0303
+D$	<?>	machī_IND, bherpa_IND	Dhimal, Miji, Bodo, Sunwar, Kaike, HillMiri, Konyak, Rabha, Bugun, Khezhama, Lhota, Aka	14	U+0044 U+0024
+ɔ̣	ɔ̣	pɔ̣³³_jɔ̣¹¹, lɔ̣⁴⁴	Manu, Wkayah, Padaung	13	U+0254 U+0323
+ə́	ə́	hə̀tə́w, naphə́u	KonyakD, KayanPekon	13	U+0259 U+0301
+pp	pp	thappu, sappoːk	Limbu, Kaike, Yamphu, Padam, Kulung, Shaiyang, Nishi, UpperBangni, Gallong, Milang	13	U+0070 U+0070
+^b̄	b̄	b̄a⁵⁵_lʌi⁵¹, b̄əsjwi⁵⁵	Geker, Geba, Sgaw, KayanPekon, Palaichi	13	U+005e U+0062 U+0304
+^ž	ž	žɨ, žu	Miji, AngKhonoma, Pochuri, Yimchunru, Rengma, Khezhama, Mao	13	U+005e U+017e
+è	è	pèy, mèŋ	KonyakD, Beijing, Apatari, KayanPekon	13	U+00e8
+e̲	e̲	he̲³¹, u³³_tθe̲³¹	Kelun, Jingpo, Sulong, Gazhuo	13	U+0065 U+0332
+nn	nn	hannä, enno	Lhota, Nocte, Padam, Shaiyang, Khaling, Liangmai, Khoirao, Tangkul, Maram, Milang, Zeme	13	U+006e U+006e
+ʒ́	ʒ́	_ʒ́i, mŋar_bɨ_ʒ́i	Ergong, Horpa, BatangTibetan, Idu, Sulong, Taraon, Nusu, Sqiangqin, Lusu	13	U+0292 U+0301
+ł	ɬ	ʁo³³_ło³⁵, ji³³_łɛ⁵⁵	Shixing, Quueyu, Jinuo, Rawang, Namuzi, Taraon, Nqiang, Nusu, Sqiangqin	12	U+0142
+ʁ	ʁ	mə_ʁer, ɛ_ʁe_lɔ	Nqiang, XiaxeTibetan, Horpa, Namuzi, Quueyu, Shixing, Ergong, Sqiangqin	12	U+0281
+ū	ū	chūŋ, ʔūn_	OldChinese, Beijing, Chang, Konyak, KayanPekon	12	U+016b
+kk	kk	səkkə, akko	Yamphu, Dumi, Padam, Garo, Sunwar, Nishi, HillMiri, Milang	12	U+006b U+006b
+ɛː	ɛː	ŋɛː³¹, kɛː³¹	CuonaM, Leqi, Limbu, Dulong	12	U+025b U+02d0
+^č	č	čoŋ³, če	Sherpa, Jirel, Thakali, Kaike, Gurung, Lepcha, Magar	12	U+005e U+010d
+à$	à	tà, cà	KonyakD, KayanPekon, Apatari	12	U+00e0 U+0024
+c̣	c̣	phɛ³³_c̣ɨ⁵⁵, lie³³_c̣ɛ̃³⁵	Namuzi, Nqiang, Jiarug, Achang, NinglangNaxi, Shixing, Sqiangqin, Muya, Lusu	12	U+0063 U+0323
+<	<?>	yəllik__<_yən, bidəj__<_dəʔj	Dhimal, Bodo, Limbu, Rabha, Aka, Bokar	12	U+003c
+oː$	oː	doː, Niloː	Bokar, Limbu, Dumi, Nishi, Gallong	12	U+006f U+02d0 U+0024
+b$	b	aʒab, ndɨ³³_χə³³_mb	Bodo, LijiangNaxi, Padam, Limbu, Geker, Serdukpen, Nishi, Liangmai, Shixing, Manu	11	U+0062 U+0024
+ʒ̣	ʒ̣	ʁo³³_ʒ̣e³³, fu³³_ʒ̣ɨ³³_g	Namuzi, Sqiangqin, Lusu, Guiqiong, Pumi1, Quueyu	11	U+0292 U+0323
+^dʒ	dʒ	dʒɨ³³, dʒi¹¹_na³⁵	Yintale, Ersu, Nqiang, Guiqiong, Sqiangqin, Nusu, Pumi2	11	U+005e U+0064 U+0292
+ı	ı	ćin_²_cı_²_, min_¹²_cı_³_	CHN	11	U+0131
+^ṭh	ṭh	ṭha, ṭhŏl	Jirel, Lushai, Konyak, Hmar, Tamang, Sunwar	11	U+005e U+1e6d U+0068
+χ$	χ	reχ, loχ	XiaxeTibetan, Nqiang	11	U+03c7 U+0024
+ns	ns	sansriʔ, unsu	Bodo, Wancho, Mikir, AoMongsen, Rengma, Aka, Apatari, Maram, Milang	11	U+006e U+0073
+²⁴$	²⁴	sə²⁴, ća²⁴	Gazhuo, Guiqiong, Fuzhou	11	U+00b2 U+2074 U+0024
+^a$	a	a	Rawang, KonyakD, AngKhonoma, Kaike, Rengma, Nqiang, Lhota, Aka, Lepcha, Gallong, Zeme	11	U+005e U+0061 U+0024
+^xh	xh	xhə, xha	BatangTibetan, AlikeTibetan, XiaxeTibetan	11	U+005e U+0078 U+0068
+â$	â	kạ́u_khâ, zâ	KayanPekon, Pumi2, Muya, Manipuri	11	U+00e2 U+0024
+I$	<?>	se_¹²_t`ər_¹²_śYдI, bi³⁵_pâ⁵⁵_TI	Quueyu, CHN, Yamphu, Ersu, Pumi1, Shixing, Muya, Lusu	11	U+0049 U+0024
+é	é	lémbo, shétou_śY	Beijing, KonyakD, Rabha, Apatari	11	U+00e9
+^ɛ	ɛ	ɛ⁵⁵_ẓə⁵⁵, ɛ³³_bu³³_bu⁵	Namuzi, Pumi2, Pumi1, Shixing, Thakali, Ergong	10	U+005e U+025b
+í	í	pífū_, rí-ba-a	Beijing, Apatari, Rabha	10	U+00ed
+ù	ù	sùy, tùyluóy	Beijing, KonyakD, Apatari	10	U+00f9
+rh	rh	kərhəŋ-ke, amrhɨ	Pochuri, Magar, Dhimal, AngKhonoma, Kaike, Rengma, AngKohima	10	U+0072 U+0068
+ē	ē	smējʔ_, sēŋ_	Beijing, OldChinese, Konyak	10	U+0113
+qh	qh	mə_qhi, sqha	Namuzi, Shixing, Ergong, Horpa, Pumi2, Muya	10	U+0071 U+0068
+^khw	khw	khwi⁴⁴, khwi¹¹	PaO, Yintale, Geba, Manu, Chang, Burmese	10	U+005e U+006b U+0068 U+0077
+dʒ	dʒ	sɛ³³_ndʒo¹³, _ndʒak_kɔ_p	Pumi2, Quueyu, Yintale, Jiarug, Ersu	10	U+0064 U+0292
+^tʃh	tʃh	tʃho⁵⁵, tʃhɛ³¹	Nqiang, Sqiangqin, Ersu, Bola, Quueyu, Jinuo, LangsuMaru, Leqi	10	U+005e U+0074 U+0283 U+0068
+b̄	b̄	ṭəb̄lɔ⁴⁴, ʔəb̄ɔʔ⁵³_bɔʔ⁵	Palaichi, Geker, Fuzhou, Sgaw, Yintale, Geba, Manu	10	U+0062 U+0304
+ò	ò	yòŋ, mòŋcáŋ	KonyakD, Beijing, Apatari	10	U+00f2
+^nʒ	nʒ	nʒɨ³³, nʒinmei	LijiangNaxi, Muya, AlikeTibetan, Ersu, Namuzi, Liangmai, Horpa	10	U+005e U+006e U+0292
+^rh	rh	rhi, rhil_L²mu_T¹	Sherpa, OldChinese, Dhimal, Kaike, Bugun, Khezhama, Magar, Jirel	10	U+005e U+0072 U+0068
+⁵¹	⁵¹	liŋ⁵¹_ciŋ²¹, mɛ⁵¹_khli³³	Zhaba, Sgaw, Geker	10	U+2075 U+00b9
+^ŋh	ŋh	ŋhājʔ_, ŋha_	OldChinese, Kaike, Lushai, Achang, Hmar, Jinuo	10	U+005e U+014b U+0068
+²⁴¹$	²⁴¹	mə³³_bẓi²⁴¹, dio²⁴¹	Sqiangqin	9	U+00b2 U+2074 U+00b9 U+0024
+ə̄	ə̄	s-mə̄k_, pə̄rʔ_	OldChinese, KayanPekon	9	U+0259 U+0304
+ä	ä	näʔäk, sippräk	Yamphu, AlikeTibetan	9	U+00e4
+^ɔ	ɔ	ɔn, ɔ³¹_ɔ³¹	Kaike, Wkayah, Achang, Kulung, Khaling, Limbu, Rourou, Kelun	9	U+005e U+0254
+ā$	ā	bŏspā, pyā	Konyak, Limbu	9	U+0101 U+0024
+^nʒ́	nʒ́	nʒ́ɛʔ⁵³, nʒ́y³¹	BatangTibetan, LijiangNaxi, Muya, XiaxeTibetan	9	U+005e U+006e U+0292 U+0301
+²³$	²³	kouk²³, khöük²³	Fuzhou	9	U+00b2 U+00b3 U+0024
+⁶	<?>	ŋua⁶_, iap⁶_bi³	JianchuanBai, Hakka	9	U+2076
+ú$	ú	cú, tu-pú	KayanPekon, Rabha, KonyakD, Apatari	9	U+00fa U+0024
+^c̣	c̣	c̣ə_lɔ, c̣o⁵⁵	Achang, Namuzi, Jiarug, Ersu, Guiqiong, NinglangNaxi	9	U+005e U+0063 U+0323
+^qh	qh	qho⁵⁵, qhuɔ̃⁵⁵_mu⁵⁵	Shixing, Pumi2, Guiqiong, Namuzi, Quueyu, Muya	9	U+005e U+0071 U+0068
+ə̆	ə̆	nə̆³¹_khjɛʔ⁵⁵, lə̆³¹_kha³⁵	Leqi, Bola, LangsuMaru	9	U+0259 U+0306
+^ɨ	ɨ	ɨŋ, ɨam	Bokar, Phom, Chang, JianchuanBai, Liangmai, AoMongsen, Gallong	9	U+005e U+0268
+ö$	ö	dəkhlö, sö	Khaling, Konyak, Muya, Dumi	9	U+00f6 U+0024
+ø	ø	u¹¹_kø⁴⁴, wạ⁴⁴_ʃhø²²	Manu, Yeinbaw	9	U+00f8
+rw	rw	mrwe, karwuHF	Sherpa, Burmese, XiaxeTibetan, CuonaM, PaO, Yeinbaw	9	U+0072 U+0077
+^pw	pw	pwɛ⁵⁵, pwạ¹¹_mɨə³³	Sgaw, Manu, Yintale, Yeinbaw, Geba	8	U+005e U+0070 U+0077
+ll	ll	yəllik__<_yən, al-lap	Limbu, Sunwar, HillMiri, Shaiyang, UpperBangni	8	U+006c U+006c
+ī$	ī	tī, mī	Konyak	8	U+012b U+0024
+kw	kʷ	naχ_kwo, lok_kwä	Sema, XiaxeTibetan, AlikeTibetan, Khezhama, Dumi	8	U+006b U+0077
+o̲	o̲	to̲t²¹, co̲²¹	Zhaba, Leqi, Kelun	8	U+006f U+0332
+ø̣	ø̣	lv¹¹_mø̣³³_k, kho³³_lø̣ə¹¹	Manu	8	U+00f8 U+0323
+kh$	kʰ	lakh, ći⁴_thi⁴_kh	Tujia, Dhimal, Chang, Sgaw, Nishi, Konyak, Geba, Kelun	8	U+006b U+0068 U+0024
+Y$	<?>	sı_¹²_t`əu_¹²_śY, shétou_śY	Beijing, CHN	8	U+0059 U+0024
+t̯	t̯	ma³³_ṭi²²_t̯a, ʔo²²_pɔ²²_t̯a	Palaichi, Geker	8	U+0074 U+032f
+ɨ́	ɨ́	hɨ́ŋ__'grass', wɨ́ŋ	KonyakD, KayanPekon	8	U+0268 U+0301
+^thw	thw	thwĩʔ⁵³, thwi¹¹	Sgaw, Geker, PaO, Yintale, Yeinbaw, Padaung, Geba, KayanPekon	8	U+005e U+0074 U+0068 U+0077
+ǒ	ǒ	zǒu_, zhǒngzǐ_	Beijing, CHN	8	U+01d2
+c̣h	c̣h	mc̣hi, ʃyɛ⁵⁵_c̣hu⁵	Ersu, Achang, Pumi2, Horpa, LangsuMaru, Sqiangqin, Muya, Lusu	8	U+0063 U+0323 U+0068
+ɛ̣	ɛ̣	ńiẹ³³_prɛ̣¹, prɛ̣¹¹_khu³³	Wkayah	8	U+025b U+0323
+^ḍ	ḍ	ḍim, ḍiša	Magar, Kaike, Geker, Konyak, Gurung	8	U+005e U+1e0d
+²³¹$	²³¹	nʒ́o²³¹, lo²³¹	BatangTibetan	8	U+00b2 U+00b3 U+00b9 U+0024
+²²²²$	²²²²	pa¹¹_maj²²²², min²²²²	PaO	8	U+00b2 U+00b2 U+00b2 U+00b2 U+0024
+ms	ms	pamsambu, namsu	Dhimal, Chang, WrittenTibetan, Liangmai, Jiarug, Chokri, Magar	7	U+006d U+0073
+³²³$	³²³	to³²³, ni³¹_na³²³	Gazhuo, Guiqiong, Lusu	7	U+00b3 U+00b2 U+00b3 U+0024
+^dh	dh	dhale, dhoŋ	Khaling, Dhimal, OldChinese, Magar	7	U+005e U+0064 U+0068
+^sw	sw	swaː, swi³³	Burmese, Kaike, Padaung, PaO	7	U+005e U+0073 U+0077
+ô	ô	mẹ́klôŋ_mẹ́, khôn	KayanPekon, Chang	7	U+00f4
+^čh	čh	čhu_T², čhuma	Jirel, Kaike	7	U+005e U+010d U+0068
+ì$	ì	ʒì, àkì	Apatari, KonyakD, Milang	7	U+00ec U+0024
+ǔ	ǔ	yǔ_, shǔi_	Beijing	7	U+01d4
+ã$	ã	mõ³³_pe¹¹ã, homã	Lhota, Kaike, Manu, Pumi2	7	U+00e3 U+0024
+^ã	ã	ãthuŋ, ãphur	WrittenTibetan	7	U+005e U+00e3
+ə̲	ə̲	da³¹_ə̲³¹, nə̲k⁵⁵_lɔm³³	Leqi, Sulong, Jingpo, Kelun, Muya	7	U+0259 U+0332
+rs	rs	bərsə_NPL, barsa_NPL	Dhimal, Khaling, Sunwar, Mikir, Rabha, Chepang, Magar	7	U+0072 U+0073
+ə̀	ə̀	tə̀w, hə̀tə́w	KonyakD, KayanPekon	7	U+0259 U+0300
+^zh	zh	zhǒngzǐ_, zhàn_	Beijing	7	U+005e U+007a U+0068
+ãː	ãː	nãː², lãːA	Gurung, Sunwar	7	U+00e3 U+02d0
+ə̣	ə̣	khu¹¹_lɨə̣¹¹, lə̣⁵¹	Wkayah, Sgaw	7	U+0259 U+0323
+rr	rr	harra, kurrɨ	Lhota, Yamphu, Dhimal, UpperBangni, Tangkul	7	U+0072 U+0072
+ǐ	ǐ	ʒ́ǐŋbo_, zǐ_	Beijing	7	U+01d0
+⁴⁴⁵⁵$	⁴⁴⁵⁵	nṿ̃⁴⁴⁵⁵, phluə⁴⁴⁵⁵	Manu, Yeinbaw, PaO	7	U+2074 U+2074 U+2075 U+2075 U+0024
+C	<?>	ma¹³__CHE, lv⁵⁵_CHIN	Tujia, CuonaM, Namuzi, WrittenTibetan, Gazhuo	7	U+0043
+^N	<?>	Niloː, Nico	Dumi, Kulung	7	U+005e U+004e
+á$	á	ká, ná	KonyakD, Rabha, Lepcha, Apatari, KayanPekon	7	U+00e1 U+0024
+^ńh	ńh	ńhə³_ca¹, ńhe³⁵	Achang, NinglangNaxi, Quueyu, Thakali, AngKohima	7	U+005e U+0144 U+0068
+⁴⁴²²$	⁴⁴²²	la⁴⁴²², ʔapi⁴⁴²²	PaO, Padaung, Manu	7	U+2074 U+2074 U+00b2 U+00b2 U+0024
+³³⁴⁴$	³³⁴⁴	pe³³⁴⁴, thi³³⁴⁴	PaO, Manu	7	U+00b3 U+00b3 U+2074 U+2074 U+0024
+æ$	æ	sæ, chaŋ_mæ	AlikeTibetan, Shixing	6	U+00e6 U+0024
+lh	lh	pha⁵³_lha⁵⁵, malha	Dhimal, Nusu, Sema, Kaike	6	U+006c U+0068
+ǯ	<?>	thalǯum_LR, pu_L¹ǯa_T¹	Jirel, Sherpa	6	U+01ef
+⁵²	⁵²	xuŋ⁵²_chai³¹, khaŋ⁵²_pa_T	Fuzhou, LhasaTibetan	6	U+2075 U+00b2
+əː	əː	təːpə, b̄əː⁵⁵	Leqi, Geker, Achang, Bokar	6	U+0259 U+02d0
+tt	tt	kakpɛtta, kerettabe	Padam, Kulung, Shaiyang, Limbu, HillMiri, Zeme	6	U+0074 U+0074
+ß	ß	gurßa, kɔ³³_ßi³³⁴⁴	Manu, Nqiang, Muya	6	U+00df
+õ$	õ	kyõ, achõ	Serdukpen, Lhota, Bugun	6	U+00f5 U+0024
+q$	q	ńiq, khśaq	Nqiang	6	U+0071 U+0024
+ɨ̲	ɨ̲	nɨ̲⁵⁵_nɨ̲³³, lɛ³⁵_nɨ̲³⁵	Dulong, Muya, Kelun	6	U+0268 U+0332
+ʔw	ʔw	ruŋguʔwa, θvɨ¹¹_ʔwi³³	Yamphu, Padaung	6	U+0294 U+0077
+nʒ	nʒ	nʒa³³_nʒa⁵³, luo³¹_nʒæ³⁵	Muya, Namuzi, Jiarug, Dimasa, Magar	6	U+006e U+0292
+^u̯	u̯	u̯hən_, u̯haʔ_	OldChinese	6	U+005e U+0075 U+032f
+aa$	aː	rí-ba-a, na-a	Garo, Rabha, Haka	6	U+0061 U+0061 U+0024
+E$	<?>	ma¹³__CHE, ṭhom_L¹mu_L¹_E	Guiqiong, Namuzi, CuonaM, WrittenTibetan, NinglangNaxi, Jirel	6	U+0045 U+0024
+nh$	nh	mə-rənh, ʒɨnh	Miji, Liangmai, Chepang, Kabui	6	U+006e U+0068 U+0024
+^u$	u	u	Manipuri, Miji, HillMiri, Aka, Burmese	6	U+005e U+0075 U+0024
+d̄	d̄	na²²_d̄e⁴⁴, ḍʒɨ⁵⁵_d̄ei⁵³	Sgaw, Palaichi, Geker	6	U+0064 U+0304
+^kw	kʷ	kwạɨ¹¹_ʃhɨ⁴, kwa	Phom, Khaling, PaO, Padaung, Geba, KayanPekon	6	U+005e U+006b U+0077
+ḍ	ḍ	ghũḍə_NPL, pahaːḍaA_NPL	Sunwar, Gurung, Kaike, Magar	6	U+1e0d
+ạ̀$	ạ̀	prạ̀, sə́mạ̀	KayanPekon	6	U+1ea1 U+0300 U+0024
+ʃh	ʃh	kwạɨ¹¹_ʃhɨ⁴, wạ⁴⁴_ʃhø²²	Yeinbaw, Padaung, Manu	6	U+0283 U+0068
+mː$	mː	hna_lumː, cimː	Burmese	5	U+006d U+02d0 U+0024
+ts	ts	s-whats_, dats_	OldChinese, Dumi, Haka	5	U+0074 U+0073
+^shw	shw	shwʌiʔ⁵³_lɔ²², shwân	KayanPekon, Geker	5	U+005e U+0073 U+0068 U+0077
+ọ	ọ	o¹¹_rọ⁴⁴, lụ-mọ⁴⁴²²	Wkayah, Manu, Sgaw	5	U+1ecd
+T$	<?>	ŋa³⁵_cho⁵³_T, khaŋ⁵²_pa_T	Pumi1, LhasaTibetan, Pumi2, Muya, Lusu	5	U+0054 U+0024
+ɨ́$	ɨ́	yànɨ́, shɨ́	KayanPekon, Apatari	5	U+0268 U+0301 U+0024
+ĳ	<?>	bĳak, mĳa	OldChinese, Dimasa, Garo	5	U+0133
+tʃh	tʃh	mɛ³³_ntʃhɛ⁵⁵, nə¹³_stʃhə⁵⁵	Shixing, Quueyu, Jiarug, Pumi2, Jinuo	5	U+0074 U+0283 U+0068
+nʒ́	nʒ́	nʒ́ɨ⁵⁵_nʒ́ɨ, ćha_nʒ́u	XiaxeTibetan, Namuzi, Horpa, Muya, Lusu	5	U+006e U+0292 U+0301
+k̯	k̯	ʔək̯o²²_k̯o²², ka²²_k̯a³³_ḍ	Geba, Sgaw	5	U+006b U+032f
+ì	ì	míŋzì_, ʒ́ìn_	Beijing	5	U+00ec
+ṭ$	ṭ	huṭ, līṭ	Magar, Konyak	5	U+1e6d U+0024
+chh	chh	hoːno_echhɨ, oːchhɨ	Lhota, Lushai	5	U+0063 U+0068 U+0068
+bw	bw	bài_bwâŋ, ʔa¹¹_bwa²²¹¹	KayanPekon, Geba, PaO	5	U+0062 U+0077
+^bw	bw	bwai⁵⁵, bwé	Yeinbaw, Padaung, KayanPekon	5	U+005e U+0062 U+0077
+^rʒ́	rʒ́	rʒ́a¹³_la⁵⁵, rʒ́ə_ɣə	AlikeTibetan, Quueyu	5	U+005e U+0072 U+0292 U+0301
+ẹ́$	<?>	mẹ́klôŋ_mẹ́, khânlẹ́	KayanPekon	5	U+1eb9 U+0301 U+0024
+ẽ$	ẽ	myẽ, ntẽ	Serdukpen, Lhota, Gurung, Kaike	5	U+1ebd U+0024
+ń$	ń	ekhəń, hrań	Burmese, Aka, Chepang	5	U+0144 U+0024
+^ps	ps	psɔ⁵⁵, psat	Quueyu, AlikeTibetan, Aka, Khezhama	5	U+005e U+0070 U+0073
+ē$	ē	lē, nē	Konyak, Hakka, Serdukpen	5	U+0113 U+0024
+ŋː$	ŋː	kauŋː, khauŋː	Burmese	5	U+014b U+02d0 U+0024
+ạ̀	ạ̀	prạ̀khó, mạ̀_θɨ́	KayanPekon	5	U+1ea1 U+0300
+'g	g	i_'go_down', hɨ́ŋ__'grass'	UpperBangni, Nishi, KonyakD	5	U+0027 U+0067
+R	<?>	aŋ¹_pRu², a¹_pRaŋ²	Sulong	5	U+0052
+⁵⁵²²$	⁵⁵²²	sha⁵⁵²², mɨ⁵⁵²²	PaO, Manu	5	U+2075 U+2075 U+00b2 U+00b2 U+0024
+⁵⁵⁵⁵$	⁵⁵⁵⁵	źɛʔ⁵⁵⁵⁵, bɔʔ⁵⁵⁵⁵	PaO, JianchuanBai	5	U+2075 U+2075 U+2075 U+2075 U+0024
+ŭ$	ŭ	bŭ, rŭ	Lepcha, Konyak	5	U+016d U+0024
+ọ́$	ọ́	lọ́, thọ́	KayanPekon	4	U+1ecd U+0301 U+0024
+ü$	ü	mütü, cühü	Rengma, Chokri, LhasaTibetan, Khaling	4	U+00fc U+0024
+ẹ́	<?>	mẹ́klôŋ_mẹ́, mẹ́θâ	KayanPekon	4	U+1eb9 U+0301
+ò$	ò	sò, àlò	KonyakD, Apatari	4	U+00f2 U+0024
+^d̄	d̄	d̄iʔ⁵³, d̄ələo⁵⁵	Geba, Sgaw, Geker	4	U+005e U+0064 U+0304
+^u̲	u̲	u̲³⁵_lu̲m²¹, u̲³⁵	Bola, Leqi, Jingpo	4	U+005e U+0075 U+0332
+^gw	gw	gwaŋ, gwa	Mzieme, Jirel, Magar	4	U+005e U+0067 U+0077
+ɦ	ɦ	ra⁵⁵_ɦũ³³, a¹_ɦiɛ²	Shixing, Sulong, Quueyu	4	U+0266
+^ḍʒ	ḍʒ	ḍʒɨ¹¹_mə⁴⁴_b, ḍʒɨ⁵⁵_d̄ei⁵³	Geker	4	U+005e U+1e0d U+0292
+^ʃhw	ʃhw	ʃhwv¹¹, ʃhwaʔ⁴⁴	Yeinbaw, Padaung	4	U+005e U+0283 U+0068 U+0077
+c̣$	c̣	ər_pac̣, qə_pac̣	Nqiang, Sqiangqin	4	U+0063 U+0323 U+0024
+dh	dh	kondhaŋ, dɨdhɨ-kwam	Limbu, Dhimal, Dumi, Yamphu	4	U+0064 U+0068
+^lʒ	lʒ	lʒə, lʒɨ	Horpa, Ergong	4	U+005e U+006c U+0292
+ɨː	ɨː	ɣɨː³³, ńɨːl⁵⁵	Dulong, Sgaw	4	U+0268 U+02d0
+mw	mw	koikumwimei, kamwaŋ	Maram, Liangmai, Mzieme, Kabui	4	U+006d U+0077
+ŋs	ŋs	hraŋsuŋ, nuŋsit	Garo, Mikir, Yogli, Manipuri	4	U+014b U+0073
+^nʒ̣	nʒ̣	nʒ̣o⁵⁵_pi⁵⁵, nʒ̣ɨ³⁵	Namuzi, Ersu	4	U+005e U+006e U+0292 U+0323
+gh	gh	maːNgha, žehghi	Limbu, Dhimal, Miji	4	U+0067 U+0068
+ɔ̆	ɔ̆	sɔ̆³⁵_jam⁵⁵, ŋɔ̆³¹_na̲uŋ⁵⁵	LangsuMaru, Thakali, Burmese	4	U+0254 U+0306
+ạ́$	ạ́	tarạ́, húpạ́	KayanPekon	4	U+1ea1 U+0301 U+0024
+¹⁵$	¹⁵	ćü¹⁵, tem¹⁵	LhasaTibetan, CuonaM	4	U+00b9 U+2075 U+0024
+ŋʒ	ŋʒ	temuluŋʒaŋ, iŋʒar	AoChungli, Manipuri, Mikir, Phom	4	U+014b U+0292
+ō$	ō	lō, hambišō	Chang, KayanPekon	4	U+014d U+0024
+uː$	uː	duː, nuː	Burmese, Yamphu, Gallong	4	U+0075 U+02d0 U+0024
+oo	oː	so-ota, jo-oŋ	Garo, Gangte	4	U+006f U+006f
+v$	v	ńə³³_sɨ³³_kv, ri_rav	LijiangNaxi, Horpa, NinglangNaxi	4	U+0076 U+0024
+²⁴	²⁴	pɛ²⁴_mə³³, nuə̲²⁴_phə⁵⁵	Gazhuo, Muya	4	U+00b2 U+2074
+ös$	ös	baṭlös, tŭā_sapös	Konyak	4	U+00f6 U+0073 U+0024
+z$	z	lio⁵⁵_lio⁵⁵_z, tʃhaz	Nqiang, Ersu	4	U+007a U+0024
+A	<?>	goA_pukiA, kat_LOAN	Sunwar, Motuo-M, Yimchunru	4	U+0041
+⁴⁴⁵⁵	⁴⁴⁵⁵	seŋ⁴⁴⁵⁵_mɨ⁵⁵, kham⁴⁴⁵⁵_lɔʔ	PaO, Manu	4	U+2074 U+2074 U+2075 U+2075
+ɨ̣	ɨ̣	təvɨ̣¹¹, prɨ̣⁴⁴	Wkayah, Yeinbaw, Padaung	4	U+0268 U+0323
+²²¹¹$	²²¹¹	thi²²¹¹, ʔa¹¹_bwa²²¹¹	PaO	4	U+00b2 U+00b2 U+00b9 U+00b9 U+0024
+š$	š	aš, iš	Chepang, UpperBangni, HillMiri	4	U+0161 U+0024
+^eː	eː	eːćop, eːŋ	Limbu, Lushai, Tamang, Bokar	4	U+005e U+0065 U+02d0
+ə̂	ə̂	thə̂ŋ, prạ̀mə̂u	KayanPekon	4	U+0259 U+0302
+^p̯	p̯	p̯ɔ²²_thi⁴⁴, p̯əwe⁴⁴	Sgaw, Geker, Geba	4	U+005e U+0070 U+032f
+ṭh	ṭh	pṭho⁵⁵_pṭho, bōṭhöŋ	Quueyu, Gurung, Konyak	4	U+1e6d U+0068
+ɔ̲̃	ɔ̲̃	tʃɔ̲̃³⁵, lɔ̲̃⁵⁵	LangsuMaru, Bola	3	U+0254 U+0332 U+0303
+ɛ̃$	ɛ̃	_khuɛ̃, lu²²_sa⁴⁴_sɛ̃	Geba, Pumi1	3	U+025b U+0303 U+0024
+ö̲	ö̲	tö̲⁵⁵, xö̲⁵⁵	Kelun	3	U+00f6 U+0332
+gs	gs	legs_pa, lhags_pa	WrittenTibetan	3	U+0067 U+0073
+³⁴$	³⁴	ɣɔ̃³⁴, khra³_poŋ³⁴	Idu, Muya, Rourou	3	U+00b3 U+2074 U+0024
+^gs	gs	gsus_pa, gsar__pa	WrittenTibetan	3	U+005e U+0067 U+0073
+^tw	tw	twaʔ⁵³, twi⁴⁴_ʔɛ²²_t̯	Palaichi	3	U+005e U+0074 U+0077
+^ṭw	ṭw	ṭwĩʔ⁵³, ṭwiʔ⁵³	Sgaw, Geker, Geba	3	U+005e U+1e6d U+0077
+B	<?>	sua⁵⁵_BUR, kusulB_EE	Nusu, Sunwar	3	U+0042
+śh	śh	cśhak, cśho	AlikeTibetan	3	U+015b U+0068
+a̲ː	a̲ː	ta̲ːp⁵⁵, sa̲ːt⁵⁵	Leqi	3	U+0061 U+0332 U+02d0
+ụ̃	ụ̃	mv³³_ŋụ̃³³, cv¹¹_mụ̃¹¹	Padaung, Yeinbaw	3	U+1ee5 U+0303
+ss	ss	gossuB, hɨ́ŋ__'grass'	Sunwar, KonyakD	3	U+0073 U+0073
+^fh	fh	fhu, fhuːrro	Lhota, UpperBangni	3	U+005e U+0066 U+0068
+ths	tsʰ	athso, lithsɨ	Khezhama, Pochuri	3	U+0074 U+0068 U+0073
+^ths	tsʰ	thsi⁵⁵, thsɨ	Pochuri, Khezhama, Sqiangqin	3	U+005e U+0074 U+0068 U+0073
+⁸	<?>	ci¹jiN⁸_, jɨN¹_tɨ⁸_kuaN⁴	JianchuanBai	3	U+2078
+^ʒh	ʒh	ʒhes, ʒha	Khaling, Magar	3	U+005e U+0292 U+0068
+ḍʒ	ḍʒ	ʔo²²_ḍʒɨʔ⁵³, t̯a³³_ḍʒɨʔ⁵³	Palaichi, Geker	3	U+1e0d U+0292
+ph$	pʰ	mị³³_sa³³_ph, kubhɔra__<_ph	Limbu, Yintale, Manu	3	U+0070 U+0068 U+0024
+^mw	mw	mweː, mwoː_EE	Burmese, Gurung, Dumi	3	U+005e U+006d U+0077
+^ü	ü	ü³¹_mou⁵², ü³¹	Fuzhou	3	U+005e U+00fc
+aa	aː	ima-ao, wa-al	AoChungli, Garo, Haka	3	U+0061 U+0061
+^o$	o	o	Lepcha, Mikir, Phom	3	U+005e U+006f U+0024
+ə̣̀	ə̣̀	sə̣̀ɨ, kalə̣̀u	KayanPekon	3	U+0259 U+0323 U+0300
+^ß	ß	ßị¹¹, ßọ⁴⁴	Manu, Shixing	3	U+005e U+00df
+^phʒ	phʒ	phʒo³¹, phʒiŋ⁵⁵	Jingpo, Pumi2	3	U+005e U+0070 U+0068 U+0292
+é$	é	bwé, lé	KayanPekon, KonyakD	3	U+00e9 U+0024
+^p̯w	p̯w	p̯wẹ³³, p̯wɛ³³	Geba, Sgaw	3	U+005e U+0070 U+032f U+0077
+ĳs	<?>	nĳs_, pĳs_	OldChinese	3	U+0133 U+0073
+y̲	y̲	mă³¹_ny̲⁵⁵_r, cy̲³¹_de̲⁵⁵	Kelun	3	U+0079 U+0332
+ạ̃	ạ̃	nạ̃¹¹_hɨ⁴⁴, wạ̃¹¹_ʃhɨ⁵⁵	Padaung, Yeinbaw	3	U+1ea1 U+0303
+^e$	e	e	Phom, Maram	3	U+005e U+0065 U+0024
+ps	ps	hcɨ³³_psɨ⁵⁵, mapse	Sangtam, Ersu, AoChungli	3	U+0070 U+0073
+^gh	gh	ghũḍə_NPL, ghāj_	OldChinese, Magar, Khaling	3	U+005e U+0067 U+0068
+è$	è	phè, óè	KayanPekon, KonyakD	3	U+00e8 U+0024
+ă$	ă	mă, glám-lă	Lepcha	3	U+0103 U+0024
+jw	jw	b̄əsjwi⁵⁵, _jwak	Geker, Jiarug	3	U+006a U+0077
+ńh	ńh	ńhe⁵⁵_ńhe³³, tińhə²	BatangTibetan, AngKohima, Quueyu	3	U+0144 U+0068
+ə̲ː	ə̲ː	ʃə̲ːŋ³³, sə̲ːk⁵⁵	Leqi	3	U+0259 U+0332 U+02d0
+^chw	chw	chwa, chwɔrmɔ	WrittenTibetan, Gurung, PaO	3	U+005e U+0063 U+0068 U+0077
+ls	ls	melsem, bilsi	Khaling, Garo, Konyak	3	U+006c U+0073
+^qhs	qhs	qhsa_bu_lu, qhsəp	Nqiang	3	U+005e U+0071 U+0068 U+0073
+³²³	³²³	sɨ³⁵_cə³²³_t, mi³²³_cɨ³⁵	Gazhuo	3	U+00b3 U+00b2 U+00b3
+lʒ	lʒ	_nlʒə, vlʒe	Horpa	3	U+006c U+0292
+ɨː$	ɨː	ɦɨː, dɔ³¹_ʒa⁵⁵_dɨː	Bokar, Dulong	3	U+0268 U+02d0 U+0024
+ẽː	ẽː	nẽːA, nẽːthaːB	Sunwar	3	U+1ebd U+02d0
+ii$	iː	muʒi-i, bi-i	Aka, Serdukpen, Yimchunru	3	U+0069 U+0069 U+0024
+s̯	s̯	kwe²²_s̯u³³, ʔəs̯a³³_tʃi³	Geba, Sgaw	3	U+0073 U+032f
+ẹ̀$	<?>	lẹ̀, plẹ̀	KayanPekon	3	U+1eb9 U+0300 U+0024
+â̲	â̲	mâ̲⁵⁵_mâ̲³³, mə⁵⁵_qhâ̲³³	Muya	3	U+00e2 U+0332
+ö̃	ö̃	sö̃⁵⁵, shö̃⁵⁵	BatangTibetan, Pumi1, LhasaTibetan	3	U+00f6 U+0303
+sw	sw	peːswarajikpa, _swɔ	Jiarug, Kulung, Khaling	3	U+0073 U+0077
+^ä	ä	äŋ, än	Yamphu	2	U+005e U+00e4
+³²	³²	a³²_daŋ⁵⁵, ki³²_EE	NinglangNaxi, Anong	2	U+00b3 U+00b2
+'f	f	mepyāc_'fire, kreŋ_'feather	Rabha, Konyak	2	U+0027 U+0066
+ụ$	ụ	ći_ći_bu_zụ, pu²²_u³³_lụ	Nqiang, Manu	2	U+1ee5 U+0024
+^đ	đ	đɨʔ⁵³_ʔu⁵³, đəɨʔ⁵³	Geker	2	U+005e U+0111
+zh	zh	kɨmɨzho, kɨzho	Chokri	2	U+007a U+0068
+rʒ	rʒ	qo⁵⁵_rʒi¹³, arʒap	Mikir, Quueyu	2	U+0072 U+0292
+ʔw$	ʔw	laʔw, daʔw	Bodo	2	U+0294 U+0077 U+0024
+wh	wh	əwhà, s-whats_	KonyakD, OldChinese	2	U+0077 U+0068
+vʒ́	vʒ́	ẓʒ́o_vʒ́o, vʒ́e_vʒ́u	Ergong, Horpa	2	U+0076 U+0292 U+0301
+č	č	čečum, pŭn-či	Sherpa, Lepcha	2	U+010d
+¹³²$	¹³²	ca¹³², tɛ¹³²	LhasaTibetan	2	U+00b9 U+00b3 U+00b2 U+0024
+ụ̀$	ụ̀	lụ̀, ka-nụ̀	KayanPekon	2	U+1ee5 U+0300 U+0024
+šš	šš	iššə, layš-šaA	Sunwar, Aka	2	U+0161 U+0161
+î$	î	θwî, thwî	KayanPekon	2	U+00ee U+0024
+U	<?>	sua⁵⁵_BUR, sui⁵⁵_BUR	Nusu	2	U+0055
+^ɨ$	ɨ	ɨ	Nishi, Yimchunru	2	U+005e U+0268 U+0024
+ị̀$	ị̀	sị̀, shwị̀	KayanPekon	2	U+1ecb U+0300 U+0024
+^łh	ɬh	łhə, łha³¹_a³¹	Horpa, Nusu	2	U+005e U+0142 U+0068
+lh$	lh	dolh, hŋalh	Haka, Chepang	2	U+006c U+0068 U+0024
+^d̄w	d̄w	d̄wɛʔ⁵³_ʔu⁴⁴, d̄we²²_t̯a⁴⁴	Sgaw, Palaichi	2	U+005e U+0064 U+0304 U+0077
+ńː$	ńː	_sańː, asańː	Burmese	2	U+0144 U+02d0 U+0024
+û$	û	sə̀umû, shû	KayanPekon	2	U+00fb U+0024
+²³	²³	kak²³_, saik²³_mo³¹	Fuzhou	2	U+00b2 U+00b3
+^bs	bs	bsdad, bsen	WrittenTibetan, Bugun	2	U+005e U+0062 U+0073
+^chh	chh	chhi, chhuːm	Lushai, Lhota	2	U+005e U+0063 U+0068 U+0068
+ū$	ū	ʒū, khū	Chang, Konyak	2	U+016b U+0024
+ɨ̆	ɨ̆	rɨ³¹_mɨ̆t⁵⁵, aŋ³¹_mɨ̆l⁵⁵	Dulong	2	U+0268 U+0306
+ě	ě	lěŋ_, gěi_	Beijing	2	U+011b
+ũ$	ũ	_thũ, čũ	BatangTibetan, Magar	2	U+0169 U+0024
+ks$	ks	uks, khaks	Yamphu	2	U+006b U+0073 U+0024
+ɨ̀	ɨ̀	lɨ̀m, yɨ̀ŋ	KonyakD	2	U+0268 U+0300
+u̲ː	u̲ː	kju̲ːʔ⁵⁵, ju̲ːp⁵⁵	Leqi	2	U+0075 U+0332 U+02d0
+xw	xw	ʔəxwi³³, ʔəxwe⁴⁴	Geba	2	U+0078 U+0077
+^Łh	<?>	Łhuŋ_, Łhajs_	OldChinese	2	U+005e U+0141 U+0068
+js	js	ŋhōjs_, Łhajs_	OldChinese	2	U+006a U+0073
+^̌ʒ	̌ʒ	̌ʒeʒe, ̌ʒup	Aka, Nocte	2	U+005e U+030c U+0292
+ɨ̂$	ɨ̂	θɨ̂, sɨ̂	KayanPekon	2	U+0268 U+0302 U+0024
+ĩ$	ĩ	mĩ, _nhĩ	Kaike, Pumi2	2	U+0129 U+0024
+ù$	ù	mapù, ńɨ́tpù	KonyakD	2	U+00f9 U+0024
+^ʁʒ	ʁʒ	ʁʒə	Nqiang	2	U+005e U+0281 U+0292
+xs	xs	_xsɛ, xso_xso	Horpa	2	U+0078 U+0073
+gw	gw	ʔəgwaʔ⁵³, kegwa	Rengma, Palaichi	2	U+0067 U+0077
+^lʒ́	lʒ́	lʒ́id_po, lʒ́aŋ_khu	WrittenTibetan	2	U+005e U+006c U+0292 U+0301
+ee	eː	be-en, ʁoee_mhɔ̃³⁵	Garo, Shixing	2	U+0065 U+0065
++$	+	ńeʒə-liu_sky+, lɔ+ɔ+	Aka, Kaike	2	U+002b U+0024
+^a̲	a̲	a̲u³³_lam³⁵, a̲⁵⁵	Kelun, LangsuMaru	2	U+005e U+0061 U+0332
+ô$	ô	kaklô, ŋô	Chang, KayanPekon	2	U+00f4 U+0024
+âh	âh	nâhjáŋ	KayanPekon	2	U+00e2 U+0068
+^á	á	áyi, árɨ	Apatari	2	U+005e U+00e1
+^Ł	<?>	Ła_	OldChinese	2	U+005e U+0141
+Y	<?>	śi_¹¹_t`ər_¹²_śYдI, se_¹²_t`ər_¹²_śYдI	CHN	2	U+0059
+д	<?>	śi_¹¹_t`ər_¹²_śYдI, se_¹²_t`ər_¹²_śYдI	CHN	2	U+0434
+O	<?>	kat_LOAN, oso__LHOTA	Yimchunru, Mao	2	U+004f
+aː̃$	ãː	puːŋlaː̃, oːlaː̃	Lhota	2	U+0061 U+02d0 U+0303 U+0024
+p̯	p̯	kəkɔʔ⁵³_p̯u³³, kɔʔ⁵³_p̯ụ³³	Sgaw, Geba	2	U+0070 U+032f
+ạ́	ạ́	kạ́u_khâ	KayanPekon	2	U+1ea1 U+0301
+ńń	ńń	ańńi, ańńo	Aka, Shaiyang	2	U+0144 U+0144
+ɨ̣̃	ɨ̣̃	mjɨ̣̃³³, mɨ̣̃¹¹_ha⁵⁵	Yeinbaw	2	U+0268 U+0323 U+0303
+⁵⁵⁵⁵	⁵⁵⁵⁵	ja⁵⁵⁵⁵_thi⁴⁴, mɨ⁵⁵⁵⁵_kheʔ¹	PaO	2	U+2075 U+2075 U+2075 U+2075
+bh	bh	kubhɔra__<_ph, nɛbhoː	Limbu	2	U+0062 U+0068
+pw	pw	təpwạ¹¹, pa¹¹_pwei¹¹	Yintale, Manu	2	U+0070 U+0077
+^iː	iː	iːp, iːbum	Yamphu, Kulung	2	U+005e U+0069 U+02d0
+^vʒ	vʒ	vʒi	Ergong, Horpa	2	U+005e U+0076 U+0292
+ʃhw	ʃhw	kaɨ̃²²_ʃhwɛ², nị¹¹_ʃhwi⁴⁴	Padaung	2	U+0283 U+0068 U+0077
+ẫ	<?>	mẫ³⁵_łio⁵³, lẫ¹³	BatangTibetan, Sqiangqin	2	U+1eab
+lw	lw	balwaː_NPL, balwa	Sunwar, Garo	2	U+006c U+0077
+ə́$	ə́	ʔúlə́, ə́usə́	KayanPekon	2	U+0259 U+0301 U+0024
+ɔ̲ː	ɔ̲ː	pɔ̲ː⁵⁵, cɔ̲ːŋ³³	Leqi	2	U+0254 U+0332 U+02d0
+²²¹¹	²²¹¹	ʔoŋ²²¹¹_thʌŋ, ʔoŋ²²¹¹_laŋ⁴	PaO	2	U+00b2 U+00b2 U+00b9 U+00b9
+^nw	nw	nwam, nweː	Burmese, Khaling	2	U+005e U+006e U+0077
+ĕ	ĕ	pöncĕniŋ, yunĕg'	Tujia, Konyak	2	U+0115
+^ə́	ə́	ə́usə́, ə́w	KayanPekon, KonyakD	2	U+005e U+0259 U+0301
+ii	iː	ai-iʒu	Gallong	2	U+0069 U+0069
+^ks	ks	ksər_po, ksi	Ersu, Aka	2	U+005e U+006b U+0073
+^k̯	k̯	k̯əɨʔ⁵³_la²², k̯o⁴⁴_lə³³	Sgaw, Geker	2	U+005e U+006b U+032f
+²²²$	²²²	thə²²_maj²²²	PaO	2	U+00b2 U+00b2 U+00b2 U+0024
+nʒ$	nʒ	xi⁵⁵_ma⁵⁵_nʒ	Ersu	2	U+006e U+0292 U+0024
+ü̃	ü̃	thü̃⁵⁵_thü̃⁵⁵	LhasaTibetan	2	U+00fc U+0303
+äː	äː	läːkpujik, pusäːʔ	Yamphu	2	U+00e4 U+02d0
+²⁴¹	²⁴¹	ʒu²⁴¹_bə³¹_d	Sqiangqin	2	U+00b2 U+2074 U+00b9
+ṭṭ	ṭṭ	pəṭṭə	Magar	1	U+1e6d U+1e6d
+ê	ê	pêŋ	KayanPekon	1	U+00ea
+S	<?>	a-pi_ST³⁶⁹	Lepcha	1	U+0053
+³⁶⁹$	³⁶⁹	a-pi_ST³⁶⁹	Lepcha	1	U+00b3 U+2076 U+2079 U+0024
+¹⁵	¹⁵	ćho¹⁵_ko⁵²	LhasaTibetan	1	U+00b9 U+2075
+^ghw	ghw	ghwɛlpe	Khaling	1	U+005e U+0067 U+0068 U+0077
+kʒ	kʒ	akʒu	Pochuri	1	U+006b U+0292
+oo$	oː	do-o	Garo	1	U+006f U+006f U+0024
+`$	<?>	to`	Rabha	1	U+0060 U+0024
+īw	īw	tīwʔ_	OldChinese	1	U+012b U+0077
+^ẓʒ́	ẓʒ́	ẓʒ́o_vʒ́o	Ergong	1	U+005e U+1e93 U+0292 U+0301
+^vʒ́	vʒ́	vʒ́e_vʒ́u	Horpa	1	U+005e U+0076 U+0292 U+0301
+^ê	ê	êŋ	KayanPekon	1	U+005e U+00ea
+t̯$	t̯	twi⁴⁴_ʔɛ²²_t̯	Palaichi	1	U+0074 U+032f U+0024
+wʒ	wʒ	wa_wdi_wʒjap	AlikeTibetan	1	U+0077 U+0292
+^às	às	àsɨ	Apatari	1	U+005e U+00e0 U+0073
+ẓ$	ẓ	ńi³³_qa³³_ẓ	Guiqiong	1	U+1e93 U+0024
+^θw	θw	θwî	KayanPekon	1	U+005e U+03b8 U+0077
+^ʃw	ʃw	ʃwi¹¹	Yeinbaw	1	U+005e U+0283 U+0077
+^ṣw	ṣw	ṣwei³³	Yintale	1	U+005e U+1e63 U+0077
+tw	tw	ʔetwiʔ⁵³	Palaichi	1	U+0074 U+0077
+^ì$	ì	ì	KonyakD	1	U+005e U+00ec U+0024
+^pʷ	pʷ	pʷlāc	Konyak	1	U+005e U+0070 U+02b7
+u̯	u̯	su̯hīt_	OldChinese	1	U+0075 U+032f
+^с	<?>	сłer	Rawang	1	U+005e U+0441
+^iː$	iː	iː	Gallong	1	U+005e U+0069 U+02d0 U+0024
+ǟ̑	<?>	ʃǟ̑_rə	Jiarug	1	U+01df U+0311
+^tʃw	tʃw	tʃweiʔ⁵³	Geker	1	U+005e U+0074 U+0283 U+0077
+^wh	wh	whəR	Rawang	1	U+005e U+0077 U+0068
+b̄$	b̄	t̯ɛ²²_ṭo²²_b̄	Geba	1	U+0062 U+0304 U+0024
+⁴⁴¹¹$	⁴⁴¹¹	la²²_ʔvu⁴⁴¹¹	Padaung	1	U+2074 U+2074 U+00b9 U+00b9 U+0024
+æ̃	æ̃	ćiæ̃⁵⁵	Rourou	1	U+00e6 U+0303
+^eː$	eː	eː	Burmese	1	U+005e U+0065 U+02d0 U+0024
+^àʒ	àʒ	àʒi	Apatari	1	U+005e U+00e0 U+0292
+^ṣ́	ṣ́	ṣ́i³⁵	Nusu	1	U+005e U+1e63 U+0301
+^khʷ	kʷʰ	khʷīn_	OldChinese	1	U+005e U+006b U+0068 U+02b7
+^ɔ̲	ɔ̲	ɔ̲⁵⁵	Kelun	1	U+005e U+0254 U+0332
+e̲$	e̲	xɛ³¹_lɔ⁴⁴xe̲	Kelun	1	U+0065 U+0332 U+0024
+rs$	rs	chars	Konyak	1	U+0072 U+0073 U+0024
+^G	<?>	Gu⁵⁵	Pumi2	1	U+005e U+0047
+mʒh	mʒh	namʒhɔw	Kaike	1	U+006d U+0292 U+0068
+ṇ	n̩	kāṇöŋ	Konyak	1	U+1e47
+^ě	ě	ěrduo_	Beijing	1	U+005e U+011b
+ć$	<?>	na³⁵_po³⁵_ć	Gazhuo	1	U+0107 U+0024
+^aa$	aː	a-a	Garo	1	U+005e U+0061 U+0061 U+0024
+ŏs	ŏs	bŏspā	Konyak	1	U+014f U+0073
+²¹³$	²¹³	sa²¹³	BatangTibetan	1	U+00b2 U+00b9 U+00b3 U+0024
+ḍ$	ḍ	ka²²_k̯a³³_ḍ	Geba	1	U+1e0d U+0024
+õː	õː	bõːso_NPL	Sunwar	1	U+00f5 U+02d0
+ŏs$	ŏs	chŏs	Konyak	1	U+014f U+0073 U+0024
+gh$	gh	ogh	Nishi	1	U+0067 U+0068 U+0024
+^u̯̲	u̯̲	u̯̲aʔ_	OldChinese	1	U+005e U+0075 U+032f U+0332
+ē̃$	ẽ̄	mē̃	Konyak	1	U+0113 U+0303 U+0024
+üh	üh	cühü	Rengma	1	U+00fc U+0068
+^ũ	ũ	ũ-a	Bugun	1	U+005e U+0169
+³³³$	³³³	pje̲n³³³	Jingpo	1	U+00b3 U+00b3 U+00b3 U+0024
+bʒ	bʒ	khə¹³_bʒɛ̃¹³	Pumi2	1	U+0062 U+0292
+^b̄w	b̄w	b̄we⁵⁵	Geker	1	U+005e U+0062 U+0304 U+0077
+ĕs$	ĕs	büŋšĕs	Konyak	1	U+0115 U+0073 U+0024
+^ŋŋ	ŋŋ	ŋŋ²	Taraon	1	U+005e U+014b U+014b
+ǜ	<?>	lǜ_	Beijing	1	U+01dc
+³³̃$	³³̃	_χu³³̃	NinglangNaxi	1	U+00b3 U+00b3 U+0303 U+0024
+ɨɨ	ɨː	kɨ-ɨpɨ	Yimchunru	1	U+0268 U+0268
+^̂_	̂_	̂_jɔk	Jiarug	1	U+005e U+0302 U+005f
++	+	lɔ+ɔ+	Kaike	1	U+002b
+^ƛh	<?>	ƛhuʔ_	OldChinese	1	U+005e U+019b U+0068
+ps$	ps	kheps	Yamphu	1	U+0070 U+0073 U+0024
+'h	h	khá-pak_'heart	Rabha	1	U+0027 U+0068
+ĭ	ĭ	dĭl	Konyak	1	U+012d
+lʼ$	l’	na⁴⁴_the³⁵_lʼ	Rourou	1	U+006c U+02bc U+0024
+^àh	àh	àhà	Apatari	1	U+005e U+00e0 U+0068
+ʒw	ʒw	rhiʒwɔ	Kaike	1	U+0292 U+0077
+^̌v	̌v	̌voŋ	Phom	1	U+005e U+030c U+0076
+^õ	õ	õ⁵⁵_khɨ̃⁵⁵	Rourou	1	U+005e U+00f5
+¹²$	¹²	ko_¹²	CHN	1	U+00b9 U+00b2 U+0024
+^rw	rw	rwa	WrittenTibetan	1	U+005e U+0072 U+0077
+^\	<?>	\Iaŋgā	Limbu	1	U+005e U+005c
+^æ	æ	æ⁵³	Lusu	1	U+005e U+00e6
+ạ$	ạ	se³³_kə¹¹_nạ	Manu	1	U+1ea1 U+0024
+^ĩ	ĩ	ĩt	Bugun	1	U+005e U+0129
+^ōw	ōw	ōwo	Lhota	1	U+005e U+014d U+0077
+jː	jː	lajː_ne	Burmese	1	U+006a U+02d0
+phʃ	phʃ	_phʃu	Jiarug	1	U+0070 U+0068 U+0283
+cʒ	cʒ	acʒē	Serdukpen	1	U+0063 U+0292
+ṣs	ṣs	qa³³_ṣsi⁵⁵	Quueyu	1	U+1e63 U+0073
+nː$	nː	sanː	Burmese	1	U+006e U+02d0 U+0024
+^śh	śh	śhəχ	XiaxeTibetan	1	U+005e U+015b U+0068
+^thsh	thsh	thshâ⁵⁵_ma⁵⁵	Muya	1	U+005e U+0074 U+0068 U+0073 U+0068
+khw	khw	ʔəvɨ⁴⁴_khwa²²	Palaichi	1	U+006b U+0068 U+0077
+hs	hs	lɛhsbeH_	Khaling	1	U+0068 U+0073
+___	___	mõ¹³___mbo⁵³	BatangTibetan	1	U+005f U+005f U+005f
+ɛ̲̃	ɛ̲̃	lɛ̲̃³⁵_ma³¹	Bola	1	U+025b U+0332 U+0303
+^rʒ	rʒ	rʒa	AlikeTibetan	1	U+005e U+0072 U+0292
+hh	hh	kahhúŋ	KonyakD	1	U+0068 U+0068
+^lw	lw	lwaŋku	Liangmai	1	U+005e U+006c U+0077
+G	<?>	sGo¹³	Pumi2	1	U+0047
+phs	phs	mi³³_mphsɨ⁵⁵	Namuzi	1	U+0070 U+0068 U+0073
+^ɨ̀	ɨ̀	ɨ̀ŋ	KonyakD	1	U+005e U+0268 U+0300
+'c$	c	kak'c	Konyak	1	U+0027 U+0063 U+0024
+ŋw	ŋw	miŋwaŋ	Mzieme	1	U+014b U+0077
+^ǯ	<?>	ǯiŋ_L¹ba_L¹	Jirel	1	U+005e U+01ef
+V$	<?>	keŋʔ_V	OldChinese	1	U+0056 U+0024
+^mʒ́	mʒ́	mʒ́iŋ_pa	WrittenTibetan	1	U+005e U+006d U+0292 U+0301
+^ă	ă	ăl	Lepcha	1	U+005e U+0103
+^khs	khs	khsə	Nqiang	1	U+005e U+006b U+0068 U+0073
+^xs	xs	xso_xso	Horpa	1	U+005e U+0078 U+0073
+rh$	rh	horh	Dimasa	1	U+0072 U+0068 U+0024
+ch$	ch	lan³_jin¹_ch	Tujia	1	U+0063 U+0068 U+0024
+ŭs$	ŭs	tākŭs	Konyak	1	U+016d U+0073 U+0024
+^n̥	n̥	n̥a⁵³	BatangTibetan	1	U+005e U+006e U+0325
+n̥	n̥	ʁn̥ä	AlikeTibetan	1	U+006e U+0325
+ɣ$	ɣ	ɨɣ	Chang	1	U+0263 U+0024
+³²$	³²	m³²	Anong	1	U+00b3 U+00b2 U+0024
+ạː	ạː	pwạː³³	Sgaw	1	U+1ea1 U+02d0
+ʒ$	ʒ	mu⁵⁵_kho³¹_ʒ	Kelun	1	U+0292 U+0024
+^šw	šw	šwikh'	Konyak	1	U+005e U+0161 U+0077
+^ö	ö	öüŋ⁵²	Fuzhou	1	U+005e U+00f6
+¹¹¹¹$	¹¹¹¹	klaj¹¹¹¹	PaO	1	U+00b9 U+00b9 U+00b9 U+00b9 U+0024
+ọ́	ọ́	khlàitọ́khl	KayanPekon	1	U+1ecd U+0301
+ʃw	ʃw	ṭəɨ³¹_ʃwiʔ⁵³	Geker	1	U+0283 U+0077
+àh$	àh	yàlàh	KonyakD	1	U+00e0 U+0068 U+0024
+nʒ̣	nʒ̣	qa³³_nʒ̣e⁵⁵	Muya	1	U+006e U+0292 U+0323
+dd	dd	luddub	Bodo	1	U+0064 U+0064
+jː$	jː	sajː	Burmese	1	U+006a U+02d0 U+0024
+pʒ	pʒ	cai³¹_pʒu³¹	Jingpo	1	U+0070 U+0292
+_̣	_̣	loʔ⁵³_̣u⁴⁴_mi	Geba	1	U+005f U+0323
+æ̲	æ̲	pRæ̲¹_cɛt¹	Sulong	1	U+00e6 U+0332
+^ƛ	<?>	ƛŏt_	OldChinese	1	U+005e U+019b
+¹¹²²	¹¹²²	dɔʔ¹¹²²_ri⁴⁴	PaO	1	U+00b9 U+00b9 U+00b2 U+00b2
+^s̯	s̯	s̯i³³_jĩʔ⁵³	Geba	1	U+005e U+0073 U+032f
+\	<?>	loːma\I	Yamphu	1	U+005c
+^è$	è	è	KonyakD	1	U+005e U+00e8 U+0024
+^k̯w	k̯w	k̯wa²²_thi⁴⁴	Palaichi	1	U+005e U+006b U+032f U+0077
+³³³³$	³³³³	ʔa¹¹_khu³³³³	PaO	1	U+00b3 U+00b3 U+00b3 U+00b3 U+0024
+ßw$	ßw	ṭəɨ³¹_ṭa³¹_ßw	Geker	1	U+00df U+0077 U+0024
+łh	ɬh	fłhə	Horpa	1	U+0142 U+0068
+ŋh$	ŋh	ʒuŋh	Miji	1	U+014b U+0068 U+0024
+^ʒ́h	ʒ́h	ʒ́hōjʔ_	OldChinese	1	U+005e U+0292 U+0301 U+0068
+ŋʒ̣	ŋʒ̣	_ŋʒ̣i	Jiarug	1	U+014b U+0292 U+0323
+gs$	gs	śa_pags	WrittenTibetan	1	U+0067 U+0073 U+0024
+ṣ$	ṣ	ʔɔ³³_mei⁵⁵_ṣ	Yintale	1	U+1e63 U+0024
+ms$	ms	ims	Kulung	1	U+006d U+0073 U+0024
+ḿs	<?>	iḿsinɨ	Dumi	1	U+1e3f U+0073
+^m̲	m̲	m̲ĳs_	OldChinese	1	U+005e U+006d U+0332
+^í	í	ími	Apatari	1	U+005e U+00ed
+³³³³	³³³³	me³³³³_lu⁵⁵	PaO	1	U+00b3 U+00b3 U+00b3 U+00b3
+^dhw	dhw	dhwã_NPL	Magar	1	U+005e U+0064 U+0068 U+0077
+mː	mː	chamːkhai	Liangmai	1	U+006d U+02d0
+θh	θh	ʔu¹¹_θhø⁴⁴	Manu	1	U+03b8 U+0068
+^χʒ̣	χʒ̣	χʒ̣e³³_pe⁵⁵	Sqiangqin	1	U+005e U+03c7 U+0292 U+0323
+^ʁʒ̣	ʁʒ̣	ʁʒ̣ə	Nqiang	1	U+005e U+0281 U+0292 U+0323
+vw	vw	ləvw¹¹	Yintale	1	U+0076 U+0077
+ãː$	ãː	txiyãː	Gurung	1	U+00e3 U+02d0 U+0024
+⁴⁴̣$	⁴⁴̣	təmɔ⁴⁴̣	Wkayah	1	U+2074 U+2074 U+0323 U+0024
+ŋsh	ŋsh	kwạ̀ŋshɨ́	KayanPekon	1	U+014b U+0073 U+0068
+ʃ$	ʃ	kɔ³³_jɔ̣⁴⁴_ʃ	Manu	1	U+0283 U+0024
+^ms	ms	msu	Pochuri	1	U+005e U+006d U+0073
+ẹ̃	<?>	kəmẹ̃i⁴⁴	Geba	1	U+1eb9 U+0303
+³³²²$	³³²²	kɔ¹¹_mẹ³³²²	Yeinbaw	1	U+00b3 U+00b3 U+00b2 U+00b2 U+0024
+⁵⁴$	⁵⁴	xje⁵⁴	Zhaba	1	U+2075 U+2074 U+0024
+^ì	ì	ìnsi	Apatari	1	U+005e U+00ec
+^ə$	ə	ə	HillMiri	1	U+005e U+0259 U+0024
+^aː$	aː	aː	Bokar	1	U+005e U+0061 U+02d0 U+0024
+ṿ̃	ṿ̃	nṿ̃⁴⁴⁵⁵	Yeinbaw	1	U+1e7f U+0303
+ɔ̃$	ɔ̃	nɔ̃	Kaike	1	U+0254 U+0303 U+0024
+^nn	nn	nni	Lhota	1	U+005e U+006e U+006e
+^р	р	рɨŋ-mua	Bugun	1	U+005e U+0440
+^i̲	i̲	i̲³⁵	Bola	1	U+005e U+0069 U+0332
+^ə̲	ə̲	ə̲k⁵⁵	Leqi	1	U+005e U+0259 U+0332
+ḳ	ḳ	sɔ³³_ḳə¹¹_ńe	Manu	1	U+1e33
+^è	è	èr_	Beijing	1	U+005e U+00e8
+ọ̀$	ọ̀	tọ̀	KayanPekon	1	U+1ecd U+0300 U+0024
+^hw	hw	hwə	Magar	1	U+005e U+0068 U+0077
+^pʃ	pʃ	pʃi⁵⁵	Quueyu	1	U+005e U+0070 U+0283
+yː	yː	ŋyː³³	Leqi	1	U+0079 U+02d0
+^ă$	ă	ă	Lepcha	1	U+005e U+0103 U+0024
+^cw	cw	cwaʔl	Limbu	1	U+005e U+0063 U+0077
+tʼ$	tʼ	bɨ³¹_wɛ̲⁵⁵_tʼ	Kelun	1	U+0074 U+02bc U+0024
+^ϑ	<?>	ϑieŋ⁵²_nok²³	Fuzhou	1	U+005e U+03d1
+ɔː$	ɔː	lɔː	Kulung	1	U+0254 U+02d0 U+0024
+mʒ	mʒ	kɨmʒi	Pochuri	1	U+006d U+0292
+a̯	a̯	pa⁴⁴_pra̯a³¹	Geker	1	U+0061 U+032f
+nː	nː	minː_ma	Burmese	1	U+006e U+02d0
+²²²²	²²²²	lou²²²²_mu³³	PaO	1	U+00b2 U+00b2 U+00b2 U+00b2
+ọ̃	ọ̃	prạ¹¹_mọ̃¹¹	Padaung	1	U+1ecd U+0303
+ĕs	ĕs	chĕsmī̃	Konyak	1	U+0115 U+0073
+ī̃$	ĩ̄	chĕsmī̃	Konyak	1	U+012b U+0303 U+0024
+ǚ	<?>	nǚrén_	Beijing	1	U+01da
+əː$	əː	ńe-məː	Bokar	1	U+0259 U+02d0 U+0024
+ś$	ś	ćɨ⁵⁵_pɨ³¹_ś	Jinuo	1	U+015b U+0024
+^ŭ	ŭ	ŭr	Kelun	1	U+005e U+016d
+^öː	öː	öːm	Motuo-M	1	U+005e U+00f6 U+02d0
+^ghʷ	ghʷ	ghʷāŋ_	OldChinese	1	U+005e U+0067 U+0068 U+02b7
+^oː$	oː	oː	Yamphu	1	U+005e U+006f U+02d0 U+0024
+F	<?>	thakHF_riŋbu	Sherpa	1	U+0046
+ə̣́$	ə̣́	thə̣́	KayanPekon	1	U+0259 U+0323 U+0301 U+0024
+šw	šw	kɨmɨšwi	Chokri	1	U+0161 U+0077
+^ḏ	d̠	ḏoŋʔ__	OldChinese	1	U+005e U+1e0f
+ḷ	l̩	a³¹_ḷɨ⁵⁵_ɛ³	Anong	1	U+1e37
+^ó	ó	óè	KonyakD	1	U+005e U+00f3
+^g̲	g̲	g̲ərʔ_	OldChinese	1	U+005e U+0067 U+0332
+^ṉ	<?>	ṉejʔ_	OldChinese	1	U+005e U+1e49
+óh$	óh	sóh	KonyakD	1	U+00f3 U+0068 U+0024
+⁵⁵³³$	⁵⁵³³	ru⁵⁵³³	PaO	1	U+2075 U+2075 U+00b3 U+00b3 U+0024
+^ṇ	n̩	ṇɛ³¹_bu³¹	Anong	1	U+005e U+1e47
+ê$	ê	mə̄ŋnê	KayanPekon	1	U+00ea U+0024
+'m	m	m'mi	Mzieme	1	U+0027 U+006d

@@ -1,0 +1,20 @@
+{
+    "title": "CLDF dataset derived from Peiros' \"Sino-Tibetan Wordlists\" from 2004",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Peiros, Ilia (2004): Comparative Sino-Tibetan Wordlists.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

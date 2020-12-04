@@ -11,6 +11,7 @@ from lingpy.sequence.sound_classes import syllabify
 from cldfbench import CLDFSpec
 from csvw import Datatype
 from pyclts import CLTS
+import re
 
 
 
@@ -31,20 +32,33 @@ def is_chinese(name):
 def clean_entry(string):
     """simple replacements to enhance segmentation"""
     st = [
+            (' (GEM)', ''),
+            (' (NEP)', ''),
+            (' LO$', ''),
+            (' L$', ''),
+            (' C$', ''),
+            (' ING$', ''),
+            (' TIB', ''),
+            (' NEP', ''),
+            ('?', ''),
             (':' ,'ː'),
             ('.' ,''),
             ('=' ,''),
             (' ', '_'),
             ('_LF', ''),
+            ('*', ''),
+            ('^', ''),
+            ('$', '')
             ]
     mapper = dict(zip('0123456789', '⁰¹²³⁴⁵⁶⁸⁹'))
     mapper.update(dict(st))
-    string = string.strip(' ')
-    string = string.strip('-')
+    string = re.split(';|/|,|>', string)[0]
+    string = '^'+string+'$'
+    for s, t in st:
+        string = string.replace(s, t)
+    for s in [' ', '_', '-']:
+        string = string.strip(s)
     string = ''.join([x for x in string if not is_chinese(x)])
-    string = string.strip('_')
-    string = string.split(',')[0]
-    string = string.strip('_')
     return strip_brackets(
             ''.join([mapper.get(s, s) for s in string.strip()])
             )
@@ -68,15 +82,6 @@ class Dataset(BaseDataset):
     id = "peirosst"
     concept_class = CustomConcept
     language_class = CustomLanguage
-    form_spec = pylexibank.FormSpec(
-            replacements=[
-                ("❷", ""), ("&quot;", ""),
-                (':' ,'ː'),
-                ('.' ,''),
-                ('=' ,''),
-                (' ', '_'),
-                ('_LF', '')],
-            )
 
 
     def cmd_makecldf(self, args):
@@ -123,7 +128,7 @@ class Dataset(BaseDataset):
                                         row['NUMBER'],
                                         row[language+'NUM']),
                                     Source='Peiros2004'
-                          )
+                            )
                 else:
                     if language not in visited:
                         visited.add(language)

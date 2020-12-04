@@ -1,0 +1,133 @@
+ID	Number	Database	Name	Abbreviation	Glottocode	Note
+Aka	1	aka	Aka	aka	akha1245	
+Miji	2	aka	Miji	mji	miji1239	
+Bodo	3	bodo	Bodo	bod	bodo1269	
+Dimasa	4	bodo	Dimasa	dim	dima1251	
+Garo	5	bodo	Garo	gar	garo1247	
+Rabha	6	bodo	Rabha	rab	rabh1238	
+Burmese	7	bur	Burmese	wrb	nucl1310	
+LangsuMaru	8	bur	Langsu-Maru	lan	maru1249	
+Zhaiwa	9	bur	Zhaiwa	zha	zaiw1241	
+Achang	10	bur	Achang	acq	acha1249	
+Xiandao	11	bur	Xiandao	xia	acha1249	
+Bola	12	bur	Bola	bol	pela1242	
+Leqi	13	bur	Leqi	leq	lash1243	
+LijiangNaxi	14	bur	Lijiang-Naxi	lij	lich1241	Lichiang Naxi, a dialect of Naxi, Naxi glottolog code is naxi1245
+NinglangNaxi	15	bur	Ninglang-Naxi	nin	naxi1245	belong to western Naxi, no glottolog entry so I use naxi1245.
+Jinuo	16	bur	Jinuo	jin	youl1235	(Youle Jinuo [youl1235 ] & Buyuan Jinuo [buyu1238])
+Chepang	17	che	Chepang	chp	chep1245	
+Lushai	18	chin	Lushai	lsh	lush1249	
+Haka	19	chin	Haka	hkq	haka1240	
+Hmar	20	chin	Hmar	hma	hmar1241	
+Gangte	21	chin	Gangte	gan	gang1266	
+Tiddim	22	chin	Tiddim	tid		
+Dhimal	23	dhim	Dhimal	dhi	dhim1246	
+Gurung	24	gur	Gurung	gur	guru1261	
+Tamang	25	gur	Tamang	tmn	nucl1729	
+Thakali	26	gur	Thakali	thk	thak1245	
+Taraon	27	idu	Taraon	trn	tara1313	
+Idu	28	idu	Idu	idu	idum1241	
+Jiarug	29	jar	Jiarug	jia		
+Jingpo	30	jnp	Jingpo	jnp	kach1280	Jinghpaw
+Kanauri	31	kan	Kanauri	kan	kinn1249	
+PaO	32	kar	Pa'O	pao	paok1235	
+Geba	33	kar	Geba	geb	geba1237	
+KayanPekon	34	kar	Kayan-Pekon	kpq	kaya1317	
+Yeinbaw	35	kar	Yeinbaw	yei	yinb1236	Yinbaw Karen
+Padaung	36	kar	Padaung	pdn		
+Geker	37	kar	Geker	gek	geko1235	Geko Karen?
+Manu	38	kar	Manu	mnu	manu1255	Manumanaw Karen
+Wkayah	39	kar	W. Kayah	kyh	west2409	Kayah Western
+Yintale	40	kar	Yintale	yin	yint1235	Yintale Karen
+Sgaw	41	kar	Sgaw	sgo	sgaw1245	
+Kelun	42	kar	Kelun	klq		
+Palaichi	43	kar	Palaichi	plc		
+Kaike	44	kay	Kaike	kay	kaik1246	
+Kham	45	kha	Kham	khq	kham1282	Khams Tibetan (many subbranches)
+Sunwar	46	kir	Sunwar	snw	sunw1242	
+Kulung	47	kir	Kulung	kul	kulu1253	
+Khaling	48	kir	Khaling	kln	khal1275	
+Dumi	49	kir	Dumi	dum	dumi1241	
+Limbu	50	kir	Limbu	lim	limb1266	
+Yamphu	51	kir	Yamphu	yam	yamp1242	
+KonyakD	52	knyk	Konyak-D	knn		
+Konyak	53	knyk	Konyak	knq	kony1248	
+Phom	54	knyk	Phom	pho	phom1236	
+Chang	55	knyk	Chang	cha		
+Yogli	56	knyk	Yogli	yog		
+Nocte	57	knyk	Nocte	noc	noct1238	
+Wancho	58	knyk	Wancho	wan	wanc1238	
+Lepcha	59	lep	Lepcha	lep	lepc1244	
+Magar	60	mag	Magar	mgx	maga1261	
+Manipuri	61	man	Manipuri	mnx	mani1292	
+MijuGeman	62	miju	Miju-Geman	mij		
+Mikir	63	mik	Mikir	mik		
+Motuo-M	64	mot	Motuo-M	mot	dakp1242	Tawang Monpa, Dakpakha?
+Rengma	65	naga	Rengma	rnq	reng1255	
+Sema	66	naga	Sema	sem		
+Tangkul	67	naga	Tangkul	tan	tang1336	
+Lhota	68	naga	Lhota	lho	loth1237	Naga Lotha
+Pochuri	69	naga	Pochuri	poc	poch1243	
+Sangtam	70	naga	Sangtam	snq	sang1321	
+Yimchunru	71	naga	Yimchunrü	yim	yimc1240	Naga Yimchungru
+AoChungli	72	naga	Ao-Chungli	aoc	chon1286	Naga Ao
+AoMongsen	73	naga	Ao-Mongsen	aom	mong1332	Naga Ao
+Mao	74	naga	Mao	mau	maon1238	
+Khezhama	75	naga	Khezhama	khe	khez1235	
+Chokri	76	naga	Chokri	cho	chok1243	
+AngKhonoma	77	naga	Ang-Khonoma	khn		
+AngKohima	78	naga	Ang Kohima	khm		
+Mzieme	79	naga	Mzieme	mzi		
+Zeme	80	naga	Zeme	zem	zeme1240	
+Liangmai	81	naga	Liangmai	lia	lian1251	
+Maram	82	naga	Maram	mrw	mara1379	
+Khoirao	83	naga	Khoirao	khq		
+Kabui	84	naga	Kabui	kbq		
+Rourou	85	nung	Rourou	rou	nusu1239	
+Nusu	86	nung	Nusu	nus	nusu1239	
+OldChinese	87	sino	Old Chinese	och	oldc1244	
+Beijing	88	sino	Beijing	pek	mand1415	
+CHN	89	sino	CHN	scn		maybe cmn? or Northern Chinese
+JianchuanBai	90	sino	Jianchuan Bai	bai	jian1239	
+Fuzhou	91	sino	Fuzhou	fuz	mind1253	
+Hakka	92	sino	Hakka	hkk	hakk1236	
+Serdukpen	93	sul	Serdukpen	ser	sher1257	
+Sulong	94	sul	Sulong	sul		
+Bugun	95	sul	Bugun	bgn	bugu1246	
+Sqiangqin	96	syc	S-Qiangqin	qin	sout2728	South Qiang?
+Nqiang	97	syc	N-Qiang	qia	nort2722	
+Muya	98	syc	Muya	muy		
+Pumi1	99	syc	Pumi1	pmq	pumi1242	
+Pumi2	100	syc	Pumi2	pmi	pumi1242	
+Zhaba	101	syc	Zhaba	zha	zhab1238	
+Quueyu	102	syc	Quueyu	que	quey1238	
+Ergong	103	syc	Ergong	erg		
+Horpa	104	syc	Horpa	dao	horp1239	
+Shixing	105	syc	Shixing	shi	shix1238	
+Namuzi	106	syc	Namuzi	nam	namu1246	
+Guiqiong	107	syc	Guiqiong	gui	guiq1238	
+Ersu	108	syc	Ersu	ers	ersu1241	
+Lusu	109	syc	Lüsu	lus	lisu1250	
+Gazhuo	110	syc	Gazhuo	gaz		
+Tujia	111	tujia	Tujia	tuj	nort2732	Northern Tujia [nort2732] & Southern Tujia [sout2739]
+Anong	112	trun	Anong	ano		
+Rawang	113	trun	Rawang	raw	rawa1265	
+Dulong	114	trun	Dulong	dul	drun1238	
+WrittenTibetan	115	tib	Written Tibetan	wrt	tibe1272	
+LhasaTibetan	116	tib	Lhasa Tibetan	lha	tibe1272	
+BatangTibetan	117	tib	Batang Tibetan	bat	kham1282	
+XiaxeTibetan	118	tib	Xiaxe Tibetan	xia	amdo1237	
+AlikeTibetan	119	tib	Alike Tibetan	ali	amdo1237	
+Jirel	120	tib	Jirel	jir	jire1238	
+Sherpa	121	tib	Sherpa	she	sher1255	Solu-Khumbu Sherpa
+CuonaM	122	tib	Cuona-M	cuo		
+Milang	123	tani	Milang	mil		
+Padam	124	tani	Padam	pad	pada1257	
+Shaiyang	125	tani	Shaiyang	sha		
+Apatari	126	tani	Apatari	apa	apat1240	
+Gallong	127	tani	Gallong	glq		
+HillMiri	128	tani	Hill-Miri	hil	nyis1236	
+Bokar	129	tani	Bokar	bok	bori1243	
+Nishi	130	tani	Nishi	nis	nisi1238	Nisi?
+Tagin	131	tani	Tagin	tgq	tagi1241	
+UpperBangni	132	tani	Upper-Bangni	uba	bang1338	
